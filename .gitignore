@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-.cache.json
-sponsors.json
+*.json
+!package.json
