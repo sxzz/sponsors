@@ -15,6 +15,10 @@ Thank you for your support.
   </a>
 </p>
 
+## Doc
+
+- [中国大陆用户指南 / Chinese Guide](./doc/chinese-guide.md)
+
 ## Thanks
 
 Built with [SponsorKit](https://github.com/antfu/sponsorkit).
