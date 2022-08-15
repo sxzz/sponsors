@@ -14,7 +14,10 @@ export default defineConfig({
     {
       title: 'Sponsors',
       monthlyDollars: 5,
-      preset: presets.medium,
+      preset: {
+        ...presets.medium,
+        boxWidth: 90,
+      },
       // to insert custom elements after the tier block
       composeAfter: (composer, tierSponsors, config) => {
         composer.addSpan(10)
