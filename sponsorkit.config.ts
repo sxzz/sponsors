@@ -13,7 +13,7 @@ export default defineConfig({
     },
     {
       title: 'Sponsors',
-      monthlyDollars: 5,
+      monthlyDollars: 4,
       preset: {
         ...presets.medium,
         boxWidth: 90,
@@ -25,12 +25,12 @@ export default defineConfig({
     },
     {
       title: 'Silver Sponsors',
-      monthlyDollars: 20,
+      monthlyDollars: 16,
       preset: presets.large,
     },
     {
       title: 'Gold Sponsors',
-      monthlyDollars: 100,
+      monthlyDollars: 64,
       preset: presets.xl,
     },
   ],
