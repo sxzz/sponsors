@@ -3,7 +3,7 @@ import { defineConfig, presets } from 'sponsorkit'
 export default defineConfig({
   tiers: [
     {
-      title: 'Backers',
+      title: '❤️ Backers',
       // to replace the entire tier rendering
       // compose: (composer, tierSponsors, config) => {
       //   composer.addRaw(
@@ -12,7 +12,7 @@ export default defineConfig({
       // },
     },
     {
-      title: 'Sponsors',
+      title: '💖 Sponsors',
       monthlyDollars: 4,
       preset: {
         ...presets.medium,
@@ -24,12 +24,12 @@ export default defineConfig({
       },
     },
     {
-      title: 'Silver Sponsors',
+      title: '💓 Silver Sponsors',
       monthlyDollars: 16,
       preset: presets.large,
     },
     {
-      title: 'Gold Sponsors',
+      title: '💗 Gold Sponsors',
       monthlyDollars: 64,
       preset: presets.xl,
     },
