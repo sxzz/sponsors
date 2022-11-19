@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  sponsorkit: ^0.6.0
+  sponsorkit: ^0.6.1
 
 dependencies:
-  sponsorkit: 0.6.0
+  sponsorkit: 0.6.1
 
 packages:
 
@@ -260,8 +260,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /defu/6.1.0:
-    resolution: {integrity: sha512-pOFYRTIhoKujrmbTRhcW5lYQLBXw/dlTwfI8IguF1QCDJOcJzNH1w+YFjxqy6BAuJrClTy6MUE8q+oKJ2FLsIw==}
+  /defu/6.1.1:
+    resolution: {integrity: sha512-aA964RUCsBt0FGoNIlA3uFgo2hO+WWC0fiC6DBps/0SFzkKcYoM/3CzVLIa5xSsrFjdioMdYgAIbwo80qp2MoA==}
     dev: false
 
   /delayed-stream/1.0.0:
@@ -269,8 +269,8 @@ packages:
     engines: {node: '>=0.4.0'}
     dev: false
 
-  /destr/1.2.0:
-    resolution: {integrity: sha512-JG+cG4ZPB1L27sl2C2URg8MIOmIUtTbE5wEx02BpmrTCqg/hXxFKXsYsnODl5PdpqNRaS1KQGUQ56V8jk8XpYQ==}
+  /destr/1.2.1:
+    resolution: {integrity: sha512-ud8w0qMLlci6iFG7CNgeRr8OcbUWMsbfjtWft1eJ5Luqrz/M8Ebqk/KCzne8rKUlIQWWfLv0wD6QHrqOf4GshA==}
     dev: false
 
   /detect-libc/2.0.1:
@@ -726,8 +726,8 @@ packages:
     resolution: {integrity: sha512-ZNaury9r0NxaT2oL65GvdGDy+5PlSaHTovT6JV5tOW07k1TQmgC0olZETa4C9KZg0+6zBr99ctTYa3Utqj9P/Q==}
     dev: false
 
-  /node-html-parser/6.1.1:
-    resolution: {integrity: sha512-eYYblUeoMg0nR6cYGM4GRb1XncNa9FXEftuKAU1qyMIr6rXVtNyUKduvzZtkqFqSHVByq2lLjC7WO8tz7VDmnA==}
+  /node-html-parser/6.1.4:
+    resolution: {integrity: sha512-3muP9Uy/Pz7bQa9TNYVQzWJhNZMqyCx7xJle8kz2/y1UgzAUyXXShc1IcPaJy6u07CE3K5rQcRwlvHzmlySRjg==}
     dependencies:
       css-select: 5.1.0
       he: 1.2.0
@@ -757,7 +757,7 @@ packages:
   /ohmyfetch/0.4.21:
     resolution: {integrity: sha512-VG7f/JRvqvBOYvL0tHyEIEG7XHWm7OqIfAs6/HqwWwDfjiJ1g0huIpe5sFEmyb+7hpFa1EGNH2aERWR72tlClw==}
     dependencies:
-      destr: 1.2.0
+      destr: 1.2.1
       node-fetch-native: 0.1.8
       ufo: 0.8.6
       undici: 5.12.0
@@ -970,15 +970,15 @@ packages:
     resolution: {integrity: sha512-weHOi8BolsDnGIwhhWHbA+wKSuSpvWwjRrdj8SdbIIis2vSwOE37CQP8x3EleuzxanUr3AK8BdUy4MkiOULPZg==}
     dev: false
 
-  /sponsorkit/0.6.0:
-    resolution: {integrity: sha512-RGMzH0MbECnWxut6jTR8N0xZkP/VhDvlZkfpLZRdB1/tzgGtPnLTyl5Qov86CdwRZV+16i3fVc+s8vJ2pFNZXA==}
+  /sponsorkit/0.6.1:
+    resolution: {integrity: sha512-KPctw94EI/n/ynCC1GNUYOcXyHDV3C7pnbH9fRHc7LuME4KDMLJCzKC+DsNHH684nyKRNQKU41v5BCfZPjfw+w==}
     hasBin: true
     dependencies:
       consola: 2.15.3
       dotenv: 16.0.3
       fs-extra: 10.1.0
       image-data-uri: 2.0.1
-      node-html-parser: 6.1.1
+      node-html-parser: 6.1.4
       ohmyfetch: 0.4.21
       picocolors: 1.0.0
       sharp: 0.31.2
@@ -1110,7 +1110,7 @@ packages:
     resolution: {integrity: sha512-1589b7oGa8ILBYpta7TndM5mLHLzHUqBfhszeZxuUBrjO/RoQ52VGVWsS3w0C0GLNxO9RPmqkf6BmIvBApaRdA==}
     dependencies:
       '@antfu/utils': 0.5.2
-      defu: 6.1.0
+      defu: 6.1.1
       jiti: 1.16.0
     dev: false
 
