@@ -3,34 +3,35 @@ import { defineConfig, presets } from 'sponsorkit'
 export default defineConfig({
   tiers: [
     {
+      title: 'Past Sponsors',
+      monthlyDollars: -1,
+      preset: presets.xs,
+    },
+    {
       title: '❤️ Backers',
-      // to replace the entire tier rendering
-      // compose: (composer, tierSponsors, config) => {
-      //   composer.addRaw(
-      //     '<-- custom svg -->',
-      //   )
-      // },
+      preset: presets.base,
     },
     {
       title: '💖 Sponsors',
-      monthlyDollars: 4,
-      preset: {
-        ...presets.medium,
-        boxWidth: 90,
-      },
-      // to insert custom elements after the tier block
+      monthlyDollars: 8,
+      preset: presets.medium,
       composeAfter: (composer, tierSponsors, config) => {
         composer.addSpan(10)
       },
     },
     {
-      title: '💓 Silver Sponsors',
-      monthlyDollars: 16,
+      title: '💓 Bronze Sponsors',
+      monthlyDollars: 32,
       preset: presets.large,
     },
     {
-      title: '💗 Gold Sponsors',
+      title: '💗 Silver Sponsors',
       monthlyDollars: 64,
+      preset: presets.xl,
+    },
+    {
+      title: '💞 Gold Sponsors',
+      monthlyDollars: 256,
       preset: presets.xl,
     },
   ],

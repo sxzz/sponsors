@@ -711,8 +711,8 @@ packages:
     resolution: {integrity: sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==}
     dev: false
 
-  /node-abi/3.28.0:
-    resolution: {integrity: sha512-fRlDb4I0eLcQeUvGq7IY3xHrSb0c9ummdvDSYWfT9+LKP+3jCKw/tKoqaM7r1BAoiAC6GtwyjaGnOz6B3OtF+A==}
+  /node-abi/3.30.0:
+    resolution: {integrity: sha512-qWO5l3SCqbwQavymOmtTVuCWZE23++S+rxyoHjXqUmPyzRcaoI4lA2gO55/drddGnedAyjA7sk76SfQ5lfUMnw==}
     engines: {node: '>=10'}
     dependencies:
       semver: 7.3.8
@@ -760,7 +760,7 @@ packages:
       destr: 1.2.1
       node-fetch-native: 0.1.8
       ufo: 0.8.6
-      undici: 5.12.0
+      undici: 5.13.0
     dev: false
 
   /once/1.4.0:
@@ -821,7 +821,7 @@ packages:
       minimist: 1.2.7
       mkdirp-classic: 0.5.3
       napi-build-utils: 1.0.2
-      node-abi: 3.28.0
+      node-abi: 3.30.0
       pump: 3.0.0
       rc: 1.2.8
       simple-get: 4.0.1
@@ -1114,8 +1114,8 @@ packages:
       jiti: 1.16.0
     dev: false
 
-  /undici/5.12.0:
-    resolution: {integrity: sha512-zMLamCG62PGjd9HHMpo05bSLvvwWOZgGeiWlN/vlqu3+lRo3elxktVGEyLMX+IO7c2eflLjcW74AlkhEZm15mg==}
+  /undici/5.13.0:
+    resolution: {integrity: sha512-UDZKtwb2k7KRsK4SdXWG7ErXiL7yTGgLWvk2AXO1JMjgjh404nFo6tWSCM2xMpJwMPx3J8i/vfqEh1zOqvj82Q==}
     engines: {node: '>=12.18'}
     dependencies:
       busboy: 1.6.0
