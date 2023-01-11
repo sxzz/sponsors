@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  sponsorkit: ^0.7.0
+  sponsorkit: ^0.7.1
 
 dependencies:
-  sponsorkit: 0.7.0
+  sponsorkit: 0.7.1
 
 packages:
 
@@ -405,9 +405,9 @@ packages:
       rimraf: 2.7.1
     dev: false
 
-  /fs-extra/10.1.0:
-    resolution: {integrity: sha512-oRXApq54ETRj4eMiFzGnHWGy+zo5raudjuxN0b8H7s/RU2oW0Wvsx9O0ACRN/kRq9E8Vu/ReskGB5o3ji+FzHQ==}
-    engines: {node: '>=12'}
+  /fs-extra/11.1.0:
+    resolution: {integrity: sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==}
+    engines: {node: '>=14.14'}
     dependencies:
       graceful-fs: 4.2.10
       jsonfile: 6.1.0
@@ -929,8 +929,8 @@ packages:
       lru-cache: 6.0.0
     dev: false
 
-  /sharp/0.31.2:
-    resolution: {integrity: sha512-DUdNVEXgS5A97cTagSLIIp8dUZ/lZtk78iNVZgHdHbx1qnQR7JAHY0BnXnwwH39Iw+VKhO08CTYhIg0p98vQ5Q==}
+  /sharp/0.31.3:
+    resolution: {integrity: sha512-XcR4+FCLBFKw1bdB+GEhnUNXNXvnt0tDo4WsBsraKymuo/IAuPuCBVAL2wIkUw2r/dwFW5Q5+g66Kwl2dgDFVg==}
     engines: {node: '>=14.15.0'}
     requiresBuild: true
     dependencies:
@@ -970,18 +970,18 @@ packages:
     resolution: {integrity: sha512-weHOi8BolsDnGIwhhWHbA+wKSuSpvWwjRrdj8SdbIIis2vSwOE37CQP8x3EleuzxanUr3AK8BdUy4MkiOULPZg==}
     dev: false
 
-  /sponsorkit/0.7.0:
-    resolution: {integrity: sha512-UY1NB++7oCy6ZAI4H3S+edQ3c3eBlTCDPaFjFSR+PHpgbU3eIxCT8bevWjixxs6Mx9bWk2bacYU6A2qGlUl4ag==}
+  /sponsorkit/0.7.1:
+    resolution: {integrity: sha512-E4U0I+wZ2JqbpLWPDVLzghA5Zt55cnDRfCtuGEBq3TFfrW9+f9lGs53TDUQNUW+tkdJI3H4lwFtmSl75v6bRrA==}
     hasBin: true
     dependencies:
       consola: 2.15.3
       dotenv: 16.0.3
-      fs-extra: 10.1.0
+      fs-extra: 11.1.0
       image-data-uri: 2.0.1
       node-html-parser: 6.1.4
       ohmyfetch: 0.4.21
       picocolors: 1.0.0
-      sharp: 0.31.2
+      sharp: 0.31.3
       unconfig: 0.3.7
       yargs: 17.6.2
     dev: false
