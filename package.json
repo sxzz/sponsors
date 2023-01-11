@@ -2,6 +2,6 @@
   "private": true,
   "packageManager": "pnpm@7.24.3",
   "dependencies": {
-    "sponsorkit": "^0.7.0"
+    "sponsorkit": "^0.7.1"
   }
 }
