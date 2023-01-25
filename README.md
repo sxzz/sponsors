@@ -2,7 +2,16 @@
 
 [![Scheduler](https://github.com/sxzz/sponsors/actions/workflows/scheduler.yml/badge.svg)](https://github.com/sxzz/sponsors/actions/workflows/scheduler.yml)
 
-Thank you for your support.
+If my code has helped you, please consider [sponsoring me](https://github.com/sponsors/sxzz).
+
+- <img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/sxzz)
+- <img src="./icons/ethereum.svg"> Ethereum, Polygon: [sanxiaozhizi.eth](https://etherscan.io/address/0x86930e4c4ef9d62d44e3363e4d23e759bcdeeaa0)
+
+Thank you for your support!
+
+## Doc
+
+- [中国大陆用户指南 / Chinese Guide](./doc/chinese-guide.md)
 
 ## Contact
 
@@ -14,10 +23,6 @@ Thank you for your support.
     <img src='https://cdn.jsdelivr.net/gh/sxzz/sponsors/sponsors.svg'/>
   </a>
 </p>
-
-## Doc
-
-- [中国大陆用户指南 / Chinese Guide](./doc/chinese-guide.md)
 
 ## Thanks
 
