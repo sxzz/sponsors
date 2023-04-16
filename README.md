@@ -19,8 +19,8 @@ Thank you for your support!
 - Twitter: [@sanxiaozhizi](https://twitter.com/sanxiaozhizi)
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/sxzz/sponsors/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/sxzz/sponsors/sponsors.svg'/>
+  <a href="./sponsors.svg">
+    <img src='./sponsors.svg'/>
   </a>
 </p>
 
