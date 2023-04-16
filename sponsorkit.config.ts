@@ -43,7 +43,7 @@ export default defineConfig({
     },
 
     {
-      title: 'Special Sponsor',
+      title: '👑 Special Sponsor',
       monthlyDollars: Infinity,
       composeAfter(compose, _, config) {
         if (
@@ -51,7 +51,7 @@ export default defineConfig({
         ) {
           compose
             .addSpan(20)
-            .addText('Special Sponsor', 'sponsorkit-tier-title')
+            .addText('👑 Special Sponsor', 'sponsorkit-tier-title')
             .addSpan(10)
             .addRaw(RSS3_LOGO(config.width!, compose.height))
             .addSpan(100)
