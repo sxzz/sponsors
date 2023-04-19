@@ -1,6 +1,6 @@
 {
   "private": true,
-  "packageManager": "pnpm@8.3.0",
+  "packageManager": "pnpm@8.3.1",
   "dependencies": {
     "sponsorkit": "^0.8.3"
   },
