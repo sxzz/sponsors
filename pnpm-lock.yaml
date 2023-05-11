@@ -7,8 +7,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^18.16.7
-    version: 18.16.7
+    specifier: ^18.16.8
+    version: 18.16.8
 
 packages:
 
@@ -16,8 +16,8 @@ packages:
     resolution: {integrity: sha512-CQkeV+oJxUazwjlHD0/3ZD08QWKuGQkhnrKo3e6ly5pd48VUpXbb77q0xMU4+vc2CkJnDS02Eq/M9ugyX20XZA==}
     dev: false
 
-  /@types/node@18.16.7:
-    resolution: {integrity: sha512-MFg7ua/bRtnA1hYE3pVyWxGd/r7aMqjNOdHvlSsXV3n8iaeGKkOaPzpJh6/ovf4bEXWcojkeMJpTsq3mzXW4IQ==}
+  /@types/node@18.16.8:
+    resolution: {integrity: sha512-p0iAXcfWCOTCBbsExHIDFCfwsqFwBTgETJveKMT+Ci3LY9YqQCI91F5S+TB20+aRCXpcWfvx5Qr5EccnwCm2NA==}
     dev: true
 
   /ajv@6.12.6:
