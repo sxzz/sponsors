@@ -46,7 +46,7 @@
 
 https://afdian.net/a/sanxiaozhizi
 
-## 通过加密货币赞助我
+## 通过加密货币赞助
 
 Ethereum, Polygon: [sanxiaozhizi.eth](https://etherscan.io/address/0x86930E4c4EF9d62d44e3363E4D23e759BCDEEAa0)
 
