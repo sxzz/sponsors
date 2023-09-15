@@ -2,6 +2,9 @@ import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
   formats: ['svg', 'json'],
+  afdian: {
+    exechangeRate: 7.2,
+  },
   tiers: [
     {
       title: 'Past Sponsors',
