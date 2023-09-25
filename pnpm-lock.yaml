@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   sponsorkit:
-    specifier: ^0.8.8
-    version: 0.8.8
+    specifier: ^0.8.9
+    version: 0.8.9
 
 devDependencies:
   '@types/node':
-    specifier: ^18.17.17
-    version: 18.17.17
+    specifier: ^18.17.19
+    version: 18.17.19
 
 packages:
 
@@ -20,8 +20,8 @@ packages:
     resolution: {integrity: sha512-pvFiLP2BeOKA/ZOS6jxx4XhKzdVLHDhGlFEaZ2flWWYf2xOqVniqpk38I04DFRyz+L0ASggl7SkItTc+ZLju4w==}
     dev: false
 
-  /@types/node@18.17.17:
-    resolution: {integrity: sha512-cOxcXsQ2sxiwkykdJqvyFS+MLQPLvIdwh5l6gNg8qF6s+C7XSkEWOZjK+XhUZd+mYvHV/180g2cnCcIl4l06Pw==}
+  /@types/node@18.17.19:
+    resolution: {integrity: sha512-+pMhShR3Or5GR0/sp4Da7FnhVmTalWm81M6MkEldbwjETSaPalw138Z4KdpQaistvqQxLB7Cy4xwYdxpbSOs9Q==}
     dev: true
 
   /acorn@8.10.0:
@@ -1018,8 +1018,8 @@ packages:
     resolution: {integrity: sha512-weHOi8BolsDnGIwhhWHbA+wKSuSpvWwjRrdj8SdbIIis2vSwOE37CQP8x3EleuzxanUr3AK8BdUy4MkiOULPZg==}
     dev: false
 
-  /sponsorkit@0.8.8:
-    resolution: {integrity: sha512-wn7XAc6HWT+vj9xUxixrOkBYNM+7aDWpwpOE4VqtCWtcaEZGG1mK1jeUrxC8vGo48U9o2blNX8B5X3NhBTe3Kw==}
+  /sponsorkit@0.8.9:
+    resolution: {integrity: sha512-utofJeNDb/Kk0Q2Qmmla5gGuwHi054hGGefxDcLoiUlhcnyiN51zqdN24y9n6073S1+et7nCBeCokrhqGGBMCQ==}
     hasBin: true
     dependencies:
       consola: 3.2.3
