@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   sponsorkit:
-    specifier: ^0.9.0
-    version: 0.9.0
+    specifier: ^0.9.1
+    version: 0.9.1
 
 devDependencies:
   '@types/node':
-    specifier: ^20.10.5
-    version: 20.10.5
+    specifier: ^20.10.6
+    version: 20.10.6
 
 packages:
 
@@ -216,8 +216,8 @@ packages:
     dev: false
     optional: true
 
-  /@types/node@20.10.5:
-    resolution: {integrity: sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==}
+  /@types/node@20.10.6:
+    resolution: {integrity: sha512-Vac8H+NlRNNlAmDfGUP7b5h/KA+AtWIzuXy0E6OyP8f1tCLYAtPvKRRDJjAPqhpCb0t6U2j7/xqAuLEebW2kiw==}
     dependencies:
       undici-types: 5.26.5
     dev: true
@@ -1077,8 +1077,8 @@ packages:
     resolution: {integrity: sha512-weHOi8BolsDnGIwhhWHbA+wKSuSpvWwjRrdj8SdbIIis2vSwOE37CQP8x3EleuzxanUr3AK8BdUy4MkiOULPZg==}
     dev: false
 
-  /sponsorkit@0.9.0:
-    resolution: {integrity: sha512-H9pTd6uAGp1cjemB/JqEl1pqdzETUMI1hXlZgVAIfhFCw8rBuCXg8ppCC+aYE9VdpJP8+74BOrwNJ2l9um9Wmw==}
+  /sponsorkit@0.9.1:
+    resolution: {integrity: sha512-k6/hg4ASrQSmosB2AjmqG6SSBKYxaalhi4hFD7ZzJNXezO0SMhlxWL1Uk9gvsuQFdHowiCCTgGx0078csm3mog==}
     hasBin: true
     dependencies:
       consola: 3.2.3
