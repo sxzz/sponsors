@@ -50,6 +50,17 @@ https://afdian.net/a/sanxiaozhizi
 
 Ethereum, Polygon: [sanxiaozhizi.eth](https://etherscan.io/address/0x86930E4c4EF9d62d44e3363E4D23e759BCDEEAa0)
 
+### Starknet 空投
+
+- 在 [Starknet Provisions](https://provisions.starknet.io/) 中 **Claim STRK -> Eligibility check only**，检查您的 GitHub 账户是否满足空投条件。
+- 如有资格，先安装 [Braavos Wallet](https://braavos.app/)，并创建一个钱包。
+- 在之前的 Starknet Provisions 页面 disconnect，再 Claim STRK。
+- 关联钱包与 GitHub 账号即可在 Starknet 主网上领取空投。
+- 空投到账后，打开 Braavos 钱包，点击有余额的 STRK 账户；
+- 填写地址 `0x04a5e7d44035b93d3536247720092db2a5aa53389ab2a588813fd36c4ef97990`
+- `Pay Gas Fee with` 选择 STRK，再在 `Enter Amount` 填写要赞助的金额（或 Max 😇）
+- 点击 `Transfer` 即可！
+
 ---
 
 如遇问题，请直接[联系](mailto:hi@sxzz.moe)我。
