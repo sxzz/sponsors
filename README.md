@@ -6,6 +6,7 @@ If my code has helped you, please consider [sponsoring me](https://github.com/sp
 
 - <img src="./icons/sponsor.svg"> [GitHub Sponsor](https://github.com/sponsors/sxzz)
 - <img src="./icons/ethereum.svg"> Ethereum, Polygon: [sanxiaozhizi.eth](https://etherscan.io/address/0x86930e4c4ef9d62d44e3363e4d23e759bcdeeaa0)
+- [Stripe](https://donate.stripe.com/aEU7sW3dJ2r15XO5kk)
 - [爱发电](https://afdian.net/a/sanxiaozhizi)
 
 Thank you for your support!
