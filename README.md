@@ -21,7 +21,8 @@ Thank you for your support!
 - Twitter: [@sanxiaozhizi](https://twitter.com/sanxiaozhizi)
 
 <p align="center">
-  <a href="./sponsors.svg">
+  <a href="https://github.com/sponsors/sxzz">
+    <img src='./sponsors.circles.svg'/>
     <img src='./sponsors.svg'/>
   </a>
 </p>
