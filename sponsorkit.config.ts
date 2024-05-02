@@ -3,7 +3,7 @@ import { defineConfig, tierPresets } from 'sponsorkit'
 export default defineConfig({
   formats: ['svg', 'json'],
   afdian: {
-    exechangeRate: 7.2,
+    exechangeRate: 6.8,
   },
   tiers: [
     {
