@@ -1,4 +1,4 @@
-import { defineConfig, presets } from 'sponsorkit'
+import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
   formats: ['svg', 'json'],
@@ -9,16 +9,16 @@ export default defineConfig({
     {
       title: 'Past Sponsors',
       monthlyDollars: -1,
-      preset: presets.xs,
+      preset: tierPresets.xs,
     },
     {
       title: '❤️ Backers',
-      preset: presets.base,
+      preset: tierPresets.base,
     },
     {
       title: '💖 Sponsors',
       monthlyDollars: 8,
-      preset: presets.medium,
+      preset: tierPresets.medium,
       composeAfter: (composer, tierSponsors, config) => {
         composer.addSpan(10)
       },
@@ -26,17 +26,31 @@ export default defineConfig({
     {
       title: '💓 Bronze Sponsors',
       monthlyDollars: 32,
-      preset: presets.large,
+      preset: tierPresets.large,
     },
     {
       title: '💗 Silver Sponsors',
       monthlyDollars: 64,
-      preset: presets.xl,
+      preset: tierPresets.xl,
     },
     {
       title: '💞 Gold Sponsors',
       monthlyDollars: 256,
-      preset: presets.xl,
+      preset: tierPresets.xl,
+    },
+  ],
+  renders: [
+    {
+      name: 'sponsors',
+      renderer: 'tiers',
+    },
+    {
+      name: 'sponsors.wide',
+      width: 1000,
+    },
+    {
+      name: 'sponsors.circles',
+      renderer: 'circles',
     },
   ],
 })
