@@ -9,17 +9,17 @@ importers:
   .:
     dependencies:
       sponsorkit:
-        specifier: ^0.12.2
-        version: 0.12.2
+        specifier: ^0.14.3
+        version: 0.14.3
     devDependencies:
       '@types/node':
-        specifier: ^20.12.8
-        version: 20.12.8
+        specifier: ^20.12.11
+        version: 20.12.11
 
 packages:
 
-  '@antfu/utils@0.7.7':
-    resolution: {integrity: sha512-gFPqTG7otEJ8uP6wrhDv6mqwGWYZKNvAcCq6u9hOj0c+IKCEsY4L1oC9trPq2SaWIzAfHvqfBDxF591JkMf+kg==}
+  '@antfu/utils@0.7.8':
+    resolution: {integrity: sha512-rWQkqXRESdjXtc+7NRfK9lASQjpXJu1ayp7qi1d23zZorY+wBHVLHHoVcMsEnkqEBWTFqbztO7/QdJFzyEcLTg==}
 
   '@emnapi/runtime@1.1.1':
     resolution: {integrity: sha512-3bfqkzuR1KLx57nZfjr2NLnFOobvyS0aTszaEGCGqmYMVDRaGvgIZbjGSV/MHSSmLgQ/b9JFHQ5xm5WRZYd+XQ==}
@@ -137,8 +137,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@types/node@20.12.8':
-    resolution: {integrity: sha512-NU0rJLJnshZWdE/097cdCBbyW1h4hEg0xpovcoAQYHl8dnEyp/NAOiE45pvc+Bd1Dt+2r94v2eGFpQJ4R7g+2w==}
+  '@types/node@20.12.11':
+    resolution: {integrity: sha512-vDg9PZ/zi+Nqp6boSOT7plNuthRugEKixDv5sFTIpkE89MmNtEArAShI4mxuX2+UrLEe9pxC1vm2cjm9YlWbJw==}
 
   ansi-regex@5.0.1:
     resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
@@ -280,8 +280,8 @@ packages:
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
 
-  sponsorkit@0.12.2:
-    resolution: {integrity: sha512-lMt3NWuePAul2hvC96gj9KGnOciNo2GSpP0ohGj9ozrGZuTkNUPhrqXYmxggXZnxXJuJE6KFB2H2WlGrGoELjA==}
+  sponsorkit@0.14.3:
+    resolution: {integrity: sha512-H712sykcKGPt76VegbKGuhU5b/XDtNOjwDdRR8hsTC/QKyd88WlBgnWOb9kjLLWl+v7wzLbuSM488mAe1WGJtw==}
     hasBin: true
 
   string-width@4.2.3:
@@ -329,7 +329,7 @@ packages:
 
 snapshots:
 
-  '@antfu/utils@0.7.7': {}
+  '@antfu/utils@0.7.8': {}
 
   '@emnapi/runtime@1.1.1':
     dependencies:
@@ -411,7 +411,7 @@ snapshots:
   '@img/sharp-win32-x64@0.33.3':
     optional: true
 
-  '@types/node@20.12.8':
+  '@types/node@20.12.11':
     dependencies:
       undici-types: 5.26.5
 
@@ -564,8 +564,9 @@ snapshots:
     dependencies:
       is-arrayish: 0.3.2
 
-  sponsorkit@0.12.2:
+  sponsorkit@0.14.3:
     dependencies:
+      '@antfu/utils': 0.7.8
       consola: 3.2.3
       d3-hierarchy: 3.1.2
       dotenv: 16.4.5
@@ -594,7 +595,7 @@ snapshots:
 
   unconfig@0.3.13:
     dependencies:
-      '@antfu/utils': 0.7.7
+      '@antfu/utils': 0.7.8
       defu: 6.1.4
       jiti: 1.21.0
 
