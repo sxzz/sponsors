@@ -9,12 +9,12 @@ importers:
   .:
     dependencies:
       sponsorkit:
-        specifier: ^0.14.5
-        version: 0.14.5
+        specifier: ^0.14.6
+        version: 0.14.6
     devDependencies:
       '@types/node':
-        specifier: ^20.14.8
-        version: 20.14.8
+        specifier: ^20.14.9
+        version: 20.14.9
 
 packages:
 
@@ -413,8 +413,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@types/node@20.14.8':
-    resolution: {integrity: sha512-DO+2/jZinXfROG7j7WKFn/3C6nFwxy2lLpgLjEXJz+0XKphZlTLJ14mo8Vfg8X5BWN6XjyESXq+LcYdT7tR3bA==}
+  '@types/node@20.14.9':
+    resolution: {integrity: sha512-06OCtnTXtWOZBJlRApleWndH4JsRVs1pDCc8dLSQp+7PpUpX3ePdHyeNSFTeSe7FtKyQkrlPvHwJOW3SLd8Oyg==}
 
   ansi-regex@5.0.1:
     resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
@@ -570,6 +570,10 @@ packages:
   node-html-parser@6.1.13:
     resolution: {integrity: sha512-qIsTMOY4C/dAa5Q5vsobRpOOvPfC4pB61UVW2uSwZNUp0QU/jCekTal1vMmbO0DgdHeLUJpv/ARmDqErVxA3Sg==}
 
+  normalize-url@8.0.1:
+    resolution: {integrity: sha512-IO9QvjUMWxPQQhs60oOu10CRkWCiZzSUkzbXGGV9pviYl1fXYcvkzQ5jV9z8Y6un8ARoVRl4EtC6v6jNqbaJ/w==}
+    engines: {node: '>=14.16'}
+
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
 
@@ -602,8 +606,8 @@ packages:
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
 
-  sponsorkit@0.14.5:
-    resolution: {integrity: sha512-Gwo1dEbNDdsaZ/pwR8lN7e4HTq3Uoxuc/UiTdtrcjPVWDMIAAUYWy7Ma0ut8R3m5wOYslhtXVVyxj8miww5Q/Q==}
+  sponsorkit@0.14.6:
+    resolution: {integrity: sha512-rb2CUEvUbwdrUBDS0aus+7jvP1TL2Gt1+xQs3chJ7KdamIr86e0FlFA3hCJ76oyLOKsAoSvG/GdjGllHYAWb+Q==}
     hasBin: true
 
   string-width@4.2.3:
@@ -876,7 +880,7 @@ snapshots:
   '@img/sharp-win32-x64@0.33.4':
     optional: true
 
-  '@types/node@20.14.8':
+  '@types/node@20.14.9':
     dependencies:
       undici-types: 5.26.5
 
@@ -1059,6 +1063,8 @@ snapshots:
       css-select: 5.1.0
       he: 1.2.0
 
+  normalize-url@8.0.1: {}
+
   nth-check@2.1.1:
     dependencies:
       boolbase: 1.0.0
@@ -1113,13 +1119,14 @@ snapshots:
     dependencies:
       is-arrayish: 0.3.2
 
-  sponsorkit@0.14.5:
+  sponsorkit@0.14.6:
     dependencies:
       '@antfu/utils': 0.7.8
       consola: 3.2.3
       d3-hierarchy: 3.1.2
       dotenv: 16.4.5
       node-html-parser: 6.1.13
+      normalize-url: 8.0.1
       ofetch: 1.3.4
       p-limit: 5.0.0
       picocolors: 1.0.1
