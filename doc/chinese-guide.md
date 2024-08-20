@@ -55,7 +55,7 @@ https://donate.stripe.com/aEU7sW3dJ2r15XO5kk
 
 如果您无法使用 GitHub Sponsor，可以通过爱发电赞助我。
 
-https://afdian.net/a/sanxiaozhizi
+https://afdian.com/a/sanxiaozhizi
 
 ## 通过加密货币赞助
 
