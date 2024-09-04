@@ -39,6 +39,16 @@ export default defineConfig({
       monthlyDollars: 256,
       preset: tierPresets.xl,
     },
+    {
+      title: '💝 Platinum Sponsors',
+      monthlyDollars: 512,
+      preset: tierPresets.xl,
+    },
+    {
+      title: '💘 Diamond Sponsors',
+      monthlyDollars: 1024,
+      preset: tierPresets.xl,
+    },
   ],
   renders: [
     {
