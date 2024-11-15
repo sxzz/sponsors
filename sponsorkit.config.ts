@@ -7,28 +7,28 @@ export default defineConfig({
       title: 'Past Sponsors',
       monthlyDollars: -1,
       preset: tierPresets.xs,
+      composeBefore: (composer) => {
+        composer.addSpan(32)
+      },
     },
     {
       title: '❤️ Backers',
-      preset: tierPresets.base,
+      preset: tierPresets.small,
     },
     {
       title: '💖 Sponsors',
       monthlyDollars: 8,
-      preset: tierPresets.medium,
-      composeAfter: (composer, tierSponsors, config) => {
-        composer.addSpan(10)
-      },
+      preset: tierPresets.base,
     },
     {
       title: '💓 Bronze Sponsors',
       monthlyDollars: 32,
-      preset: tierPresets.large,
+      preset: tierPresets.medium,
     },
     {
       title: '💗 Silver Sponsors',
       monthlyDollars: 64,
-      preset: tierPresets.xl,
+      preset: tierPresets.large,
     },
     {
       title: '💞 Gold Sponsors',
