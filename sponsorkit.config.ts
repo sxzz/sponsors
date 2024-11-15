@@ -1,11 +1,7 @@
+import { writeFile } from 'node:fs/promises'
 import { defineConfig, tierPresets } from 'sponsorkit'
 
 export default defineConfig({
-  formats: ['svg', 'json'],
-  includePastSponsors: false,
-  afdian: {
-    exechangeRate: 6.8,
-  },
   tiers: [
     {
       title: 'Past Sponsors',
@@ -50,18 +46,55 @@ export default defineConfig({
       preset: tierPresets.xl,
     },
   ],
+
+  async onSponsorsReady(sponsors) {
+    await writeFile(
+      'sponsors.json',
+      JSON.stringify(
+        sponsors
+          .filter((i) => i.privacyLevel !== 'PRIVATE')
+          .map((i) => {
+            return {
+              name: i.sponsor.name,
+              login: i.sponsor.login,
+              avatar: i.sponsor.avatarUrl,
+              amount: i.monthlyDollars,
+              link: i.sponsor.linkUrl || i.sponsor.websiteUrl,
+              org: i.sponsor.type === 'Organization',
+            }
+          })
+          .sort((a, b) => b.amount - a.amount),
+        null,
+        2,
+      ),
+    )
+  },
+
+  outputDir: '.',
+  formats: ['svg', 'png'],
+  afdian: {
+    exechangeRate: 6.8,
+  },
+
   renders: [
     {
       name: 'sponsors',
       renderer: 'tiers',
+      includePastSponsors: false,
     },
     {
       name: 'sponsors.wide',
       width: 1000,
+      includePastSponsors: false,
     },
     {
       name: 'sponsors.circles',
       renderer: 'circles',
+      includePastSponsors: true,
+    },
+    {
+      name: 'sponsors.past',
+      includePastSponsors: true,
     },
   ],
 })
