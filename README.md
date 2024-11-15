@@ -23,7 +23,7 @@ Thank you for your support!
 <p align="center">
   <a href="https://github.com/sponsors/sxzz">
     <img src='./sponsors.circles.svg'/>
-    <img src='./sponsors.svg'/>
+    <img src='./sponsors.past.svg'/>
   </a>
 </p>
 
