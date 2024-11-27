@@ -32,14 +32,6 @@
     "org": false
   },
   {
-    "name": "Evgenii Perminov",
-    "login": "HugeLetters",
-    "avatar": "https://avatars.githubusercontent.com/u/119697239?u=a4e32c52aee61ce7cb00665eb34fb6bb2c27f51e&v=4",
-    "amount": 64,
-    "link": "https://github.com/HugeLetters",
-    "org": false
-  },
-  {
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
@@ -573,6 +565,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
     "amount": -1,
     "link": "https://afdian.com/u/72703722958d11ef891952540025c377",
+    "org": false
+  },
+  {
+    "name": "Evgenii Perminov",
+    "login": "HugeLetters",
+    "avatar": "https://avatars.githubusercontent.com/u/119697239?u=a4e32c52aee61ce7cb00665eb34fb6bb2c27f51e&v=4",
+    "amount": -1,
+    "link": "https://github.com/HugeLetters",
     "org": false
   },
   {
@@ -1248,7 +1248,7 @@
     "org": true
   },
   {
-    "name": "Andrei L",
+    "name": "Andrei Luca",
     "login": "iamandrewluca",
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=37cc71c4804f47aee243d0afb1471058756c1854&v=4",
     "amount": -1,
