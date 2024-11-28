@@ -328,14 +328,6 @@
     "org": false
   },
   {
-    "name": "前端欧阳",
-    "login": "942f1b4c94ef11ef94af52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/942f1b4c94ef11ef94af52540025c377/avatar/5137734dc9d895cad33b862a10b58a82_w600_h600_s92.jpeg",
-    "amount": 7.352941176470589,
-    "link": "https://afdian.com/u/942f1b4c94ef11ef94af52540025c377",
-    "org": false
-  },
-  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
@@ -565,6 +557,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png",
     "amount": -1,
     "link": "https://afdian.com/u/72703722958d11ef891952540025c377",
+    "org": false
+  },
+  {
+    "name": "前端欧阳",
+    "login": "942f1b4c94ef11ef94af52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/942f1b4c94ef11ef94af52540025c377/avatar/5137734dc9d895cad33b862a10b58a82_w600_h600_s92.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/942f1b4c94ef11ef94af52540025c377",
     "org": false
   },
   {
