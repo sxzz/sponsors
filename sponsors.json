@@ -320,14 +320,6 @@
     "org": false
   },
   {
-    "name": "20f3e",
-    "login": "20f3edd695a011efb01e52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
-    "amount": 7.352941176470589,
-    "link": "https://afdian.com/u/20f3edd695a011efb01e52540025c377",
-    "org": false
-  },
-  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
@@ -549,6 +541,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "20f3e",
+    "login": "20f3edd695a011efb01e52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/20f3edd695a011efb01e52540025c377",
     "org": false
   },
   {
@@ -1205,14 +1205,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/37775242?u=5c2905b34bfae9a7e0c393b4e9003742a8d179cd&v=4",
     "amount": -1,
     "link": "https://github.com/Artsmp",
-    "org": false
-  },
-  {
-    "name": "sea",
-    "login": "warmthsea",
-    "avatar": "https://avatars.githubusercontent.com/u/45450994?u=2ab67489de6329d6f25e7e495c5ce441fc0cb189&v=4",
-    "amount": -1,
-    "link": "https://github.com/warmthsea",
     "org": false
   },
   {
