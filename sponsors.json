@@ -80,14 +80,6 @@
     "org": false
   },
   {
-    "name": "Anton Maklakov",
-    "login": "antonmak1",
-    "avatar": "https://avatars.githubusercontent.com/u/111416234?u=1c102dc457fbf06abdf136ecb04230d0e3f4abb7&v=4",
-    "amount": 20,
-    "link": "https://github.com/antonmak1",
-    "org": false
-  },
-  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -541,6 +533,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "Anton Maklakov",
+    "login": "antonmak1",
+    "avatar": "https://avatars.githubusercontent.com/u/111416234?u=1c102dc457fbf06abdf136ecb04230d0e3f4abb7&v=4",
+    "amount": -1,
+    "link": "https://github.com/antonmak1",
     "org": false
   },
   {
