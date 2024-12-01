@@ -496,22 +496,6 @@
     "org": false
   },
   {
-    "name": "毕晨曦",
-    "login": "62571662977211efa28b52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/62571662977211efa28b52540025c377/avatar/e9452c3b583cf9537215cae0ff96c7ca_w896_h1280_s864.jpeg",
-    "amount": 2.3529411764705883,
-    "link": "https://afdian.com/u/62571662977211efa28b52540025c377",
-    "org": false
-  },
-  {
-    "name": "859ea",
-    "login": "859ead480dc511eea22b52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png",
-    "amount": 2.3529411764705883,
-    "link": "https://afdian.com/u/859ead480dc511eea22b52540025c377",
-    "org": false
-  },
-  {
     "name": "Liu Bo",
     "login": "liulinboyi",
     "avatar": "https://avatars.githubusercontent.com/u/41336612?u=dde9a038da269b0035f87e3ecf87a1d0ef49a30d&v=4",
@@ -533,6 +517,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "毕晨曦",
+    "login": "62571662977211efa28b52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/62571662977211efa28b52540025c377/avatar/e9452c3b583cf9537215cae0ff96c7ca_w896_h1280_s864.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/62571662977211efa28b52540025c377",
+    "org": false
+  },
+  {
+    "name": "859ea",
+    "login": "859ead480dc511eea22b52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/859ead480dc511eea22b52540025c377",
     "org": false
   },
   {
@@ -938,7 +938,7 @@
   {
     "name": "Yuning Xia",
     "login": "jssonx",
-    "avatar": "https://avatars.githubusercontent.com/u/113316112?u=1b552a6e340340d5a0b3a950488817539fc4b181&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/113316112?u=566bb90de5d94e5f48c8de7094782a7aa6b0dfaf&v=4",
     "amount": -1,
     "link": "https://github.com/jssonx",
     "org": false
