@@ -296,14 +296,6 @@
     "org": false
   },
   {
-    "name": "JonDoe297",
-    "login": "b015480ed12311edb6f752540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/f8c715357b9e8e444d9f2c0243d9dd12_w132_h132_s2.jpeg",
-    "amount": 7.352941176470589,
-    "link": "https://afdian.com/u/b015480ed12311edb6f752540025c377",
-    "org": false
-  },
-  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
@@ -501,6 +493,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "JonDoe297",
+    "login": "b015480ed12311edb6f752540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/f8c715357b9e8e444d9f2c0243d9dd12_w132_h132_s2.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/b015480ed12311edb6f752540025c377",
     "org": false
   },
   {
