@@ -24,14 +24,6 @@
     "org": false
   },
   {
-    "name": "Mark Bokil",
-    "login": "mbokil",
-    "avatar": "https://avatars.githubusercontent.com/u/1885868?u=e97f6851f6b51687f628ae94d8700895309b3c68&v=4",
-    "amount": 100,
-    "link": "https://github.com/mbokil",
-    "org": false
-  },
-  {
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
@@ -482,7 +474,7 @@
   {
     "name": "Jess",
     "login": "JessicaSachs",
-    "avatar": "https://avatars.githubusercontent.com/u/2801156?u=45f9b8aa62e55c4a09209a8cc230116f0cbdaab7&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/2801156?u=73d135070dd572a64d4a3ad271d682b975b0f061&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
     "org": false
@@ -493,6 +485,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "Mark Bokil",
+    "login": "mbokil",
+    "avatar": "https://avatars.githubusercontent.com/u/1885868?u=e97f6851f6b51687f628ae94d8700895309b3c68&v=4",
+    "amount": -1,
+    "link": "https://github.com/mbokil",
     "org": false
   },
   {
