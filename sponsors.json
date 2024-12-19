@@ -352,14 +352,6 @@
     "org": false
   },
   {
-    "name": "Roman Hrynevych",
-    "login": "hrynevychroman",
-    "avatar": "https://avatars.githubusercontent.com/u/82209198?u=5d2cf23be0eac8f138ffe0bc03c9ac95286cabad&v=4",
-    "amount": 4,
-    "link": "https://github.com/hrynevychroman",
-    "org": false
-  },
-  {
     "name": "Tsuyoshi Yamaguchi",
     "login": "Tsuyoshi84",
     "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
@@ -581,6 +573,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/58023300?u=7d545b55d55314e7100a5a425cc368025bc0ae98&v=4",
     "amount": -1,
     "link": "https://github.com/aryan02420",
+    "org": false
+  },
+  {
+    "name": "Roman Hrynevych",
+    "login": "hrynevychroman",
+    "avatar": "https://avatars.githubusercontent.com/u/82209198?u=5d2cf23be0eac8f138ffe0bc03c9ac95286cabad&v=4",
+    "amount": -1,
+    "link": "https://github.com/hrynevychroman",
     "org": false
   },
   {
