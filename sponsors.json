@@ -288,14 +288,6 @@
     "org": false
   },
   {
-    "name": "Stephen Zhou",
-    "login": "hyoban",
-    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
-    "amount": 5,
-    "link": "https://github.com/hyoban",
-    "org": false
-  },
-  {
     "name": "Yuhei FUJITA",
     "login": "YuheiFUJITA",
     "avatar": "https://avatars.githubusercontent.com/u/13161267?u=f45735a8978321dd7f4bffe0feb5bdde6ff3dd84&v=4",
@@ -477,6 +469,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=1f3de26e5796ad0e47e46ed7ae4e1e320bb1e6a0&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "Stephen Zhou",
+    "login": "hyoban",
+    "avatar": "https://avatars.githubusercontent.com/u/38493346?u=53d02595456f00ebe799225058a04ac57bdf3483&v=4",
+    "amount": -1,
+    "link": "https://github.com/hyoban",
     "org": false
   },
   {
