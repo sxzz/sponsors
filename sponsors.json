@@ -392,14 +392,6 @@
     "org": false
   },
   {
-    "name": "WebWorkerTech",
-    "login": "WebWorkerTech",
-    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
-    "amount": 4,
-    "link": "https://github.com/WebWorkerTech",
-    "org": true
-  },
-  {
     "name": "WangJie",
     "login": "cnwangjie",
     "avatar": "https://avatars.githubusercontent.com/u/7459652?u=a7c2963a25b721c077e503216e54a5e208feccc7&v=4",
@@ -734,6 +726,14 @@
     "amount": -1,
     "link": "https://github.com/webfansplz",
     "org": false
+  },
+  {
+    "name": "WebWorkerTech",
+    "login": "WebWorkerTech",
+    "avatar": "https://avatars.githubusercontent.com/u/92635836?v=4",
+    "amount": -1,
+    "link": "https://github.com/WebWorkerTech",
+    "org": true
   },
   {
     "name": "辛宝Otto",
