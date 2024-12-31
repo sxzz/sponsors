@@ -1208,6 +1208,14 @@
     "org": false
   },
   {
+    "name": "sea",
+    "login": "warmthsea",
+    "avatar": "https://avatars.githubusercontent.com/u/45450994?u=2ab67489de6329d6f25e7e495c5ce441fc0cb189&v=4",
+    "amount": -1,
+    "link": "https://github.com/warmthsea",
+    "org": false
+  },
+  {
     "name": "Lo",
     "login": "LoTwT",
     "avatar": "https://avatars.githubusercontent.com/u/50254496?u=799a4070c46ed36434f3b99453eebec9929cafa1&v=4",
