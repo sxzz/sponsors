@@ -176,14 +176,6 @@
     "org": false
   },
   {
-    "name": "Leonie",
-    "login": "spaceemotion",
-    "avatar": "https://avatars.githubusercontent.com/u/429147?u=8bb54696956be4c46e4a14ab78d54637eb551a19&v=4",
-    "amount": 8,
-    "link": "https://github.com/spaceemotion",
-    "org": false
-  },
-  {
     "name": "kazuya kawaguchi",
     "login": "kazupon",
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=d4fc7a7d65aca9450523e366a63aaa791868d470&v=4",
@@ -573,6 +565,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/82209198?u=5d2cf23be0eac8f138ffe0bc03c9ac95286cabad&v=4",
     "amount": -1,
     "link": "https://github.com/hrynevychroman",
+    "org": false
+  },
+  {
+    "name": "Leonie",
+    "login": "spaceemotion",
+    "avatar": "https://avatars.githubusercontent.com/u/429147?u=8bb54696956be4c46e4a14ab78d54637eb551a19&v=4",
+    "amount": -1,
+    "link": "https://github.com/spaceemotion",
     "org": false
   },
   {
