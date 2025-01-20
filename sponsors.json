@@ -56,6 +56,14 @@
     "org": false
   },
   {
+    "name": "warmthsea",
+    "login": "d6b7a9c80e9c11eeacce5254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/b1cb25339123352f68218fc4adf0581d_w666_h666_s62.jpeg",
+    "amount": 33.38235294117647,
+    "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
+    "org": false
+  },
+  {
     "name": "Hiroki Osame",
     "login": "privatenumber",
     "avatar": "https://avatars.githubusercontent.com/u/1075694?u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4",
@@ -845,14 +853,6 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/default-avatar@2x.png",
     "amount": -1,
     "link": "https://afdian.com/u/d0d53558ea4b11e9959e52540025c377",
-    "org": false
-  },
-  {
-    "name": "warmthsea",
-    "login": "d6b7a9c80e9c11eeacce5254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/b1cb25339123352f68218fc4adf0581d_w666_h666_s62.jpeg",
-    "amount": -1,
-    "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
     "org": false
   },
   {
