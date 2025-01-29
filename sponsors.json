@@ -360,14 +360,6 @@
     "org": false
   },
   {
-    "name": "Carl Chen",
-    "login": "cc-hearts",
-    "avatar": "https://avatars.githubusercontent.com/u/71313168?u=39b954e833f0304295a27312299792b57b305b50&v=4",
-    "amount": 4,
-    "link": "https://github.com/cc-hearts",
-    "org": false
-  },
-  {
     "name": "Naoya Miyagawa",
     "login": "NaoyaMiyagawa",
     "avatar": "https://avatars.githubusercontent.com/u/38244632?u=42ca3d12a7735d005c96ec87abd64aab22cc1af1&v=4",
@@ -629,6 +621,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.com/u/a7b987d00b6911ee8c9b52540025c377",
+    "org": false
+  },
+  {
+    "name": "Carl Chen",
+    "login": "cc-hearts",
+    "avatar": "https://avatars.githubusercontent.com/u/71313168?u=39b954e833f0304295a27312299792b57b305b50&v=4",
+    "amount": -1,
+    "link": "https://github.com/cc-hearts",
     "org": false
   },
   {
