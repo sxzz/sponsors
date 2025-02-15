@@ -312,6 +312,14 @@
     "org": false
   },
   {
+    "name": "yyyanghj",
+    "login": "yyyanghj",
+    "avatar": "https://avatars.githubusercontent.com/u/34713301?u=cc905db1000f332998f708a154d9d5ef16c3c894&v=4",
+    "amount": 5,
+    "link": "https://github.com/yyyanghj",
+    "org": false
+  },
+  {
     "name": "Wey Gu",
     "login": "wey-gu",
     "avatar": "https://avatars.githubusercontent.com/u/1651790?u=5a5ea37c495f7787f35172f0f86569daf5a5a65e&v=4",
@@ -1032,14 +1040,6 @@
     "org": false
   },
   {
-    "name": "yyyanghj",
-    "login": "yyyanghj",
-    "avatar": "https://avatars.githubusercontent.com/u/34713301?u=cc905db1000f332998f708a154d9d5ef16c3c894&v=4",
-    "amount": -1,
-    "link": "https://github.com/yyyanghj",
-    "org": false
-  },
-  {
     "name": "魏",
     "login": "wsypower",
     "avatar": "https://avatars.githubusercontent.com/u/31298317?u=8402afc732f06814ed843d11aac340580a7e1040&v=4",
@@ -1249,10 +1249,10 @@
   },
   {
     "name": "Andrei L",
-    "login": "iamandrewluca",
+    "login": "unrevised6419",
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
-    "link": "https://github.com/iamandrewluca",
+    "link": "https://github.com/unrevised6419",
     "org": false
   },
   {
