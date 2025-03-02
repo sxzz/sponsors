@@ -424,14 +424,6 @@
     "org": false
   },
   {
-    "name": "Xc",
-    "login": "chenxch",
-    "avatar": "https://avatars.githubusercontent.com/u/23251408?u=d98b1ca115a64dd84d407910440d0098a46bd684&v=4",
-    "amount": 4,
-    "link": "https://github.com/chenxch",
-    "org": false
-  },
-  {
     "name": "Hyden Liu",
     "login": "HydenLiu",
     "avatar": "https://avatars.githubusercontent.com/u/52030677?u=6c86af14d0428b2a925cc71eb87457bee3ba3683&v=4",
@@ -1037,6 +1029,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/73387709?u=f2faf7d9a87d16bbb387f82924f1da9e1bbd9fac&v=4",
     "amount": -1,
     "link": "https://github.com/younggglcy",
+    "org": false
+  },
+  {
+    "name": "Xc",
+    "login": "chenxch",
+    "avatar": "https://avatars.githubusercontent.com/u/23251408?u=d98b1ca115a64dd84d407910440d0098a46bd684&v=4",
+    "amount": -1,
+    "link": "https://github.com/chenxch",
     "org": false
   },
   {
