@@ -144,6 +144,14 @@
     "org": false
   },
   {
+    "name": "Hiroshi Ogawa",
+    "login": "hi-ogawa",
+    "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4",
+    "amount": 8,
+    "link": "https://github.com/hi-ogawa",
+    "org": false
+  },
+  {
     "name": "Gustav Hansen",
     "login": "gu-stav",
     "avatar": "https://avatars.githubusercontent.com/u/2244375?u=5240e0f277601e08bdcffd579e395a57f8b23e3f&v=4",
@@ -333,6 +341,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1651790?u=5a5ea37c495f7787f35172f0f86569daf5a5a65e&v=4",
     "amount": 5,
     "link": "https://github.com/wey-gu",
+    "org": false
+  },
+  {
+    "name": "Arnaud Barré",
+    "login": "ArnaudBarre",
+    "avatar": "https://avatars.githubusercontent.com/u/14235743?u=1e3fb343c89f3f3ab51080295026475541c390f8&v=4",
+    "amount": 4,
+    "link": "https://github.com/ArnaudBarre",
     "org": false
   },
   {
