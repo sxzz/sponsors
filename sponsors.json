@@ -192,14 +192,6 @@
     "org": false
   },
   {
-    "name": "Bin",
-    "login": "ffgenius",
-    "avatar": "https://avatars.githubusercontent.com/u/106022674?u=f81a4ad2a75c9c182998f428223da78ba4d35515&v=4",
-    "amount": 8,
-    "link": "https://github.com/ffgenius",
-    "org": false
-  },
-  {
     "name": "kazuya kawaguchi",
     "login": "kazupon",
     "avatar": "https://avatars.githubusercontent.com/u/72989?u=d4fc7a7d65aca9450523e366a63aaa791868d470&v=4",
@@ -325,14 +317,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
     "amount": 5,
     "link": "https://github.com/Jinjiang",
-    "org": false
-  },
-  {
-    "name": "yyyanghj",
-    "login": "yyyanghj",
-    "avatar": "https://avatars.githubusercontent.com/u/34713301?u=cc905db1000f332998f708a154d9d5ef16c3c894&v=4",
-    "amount": 5,
-    "link": "https://github.com/yyyanghj",
     "org": false
   },
   {
@@ -597,6 +581,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/82209198?u=5d2cf23be0eac8f138ffe0bc03c9ac95286cabad&v=4",
     "amount": -1,
     "link": "https://github.com/hrynevychroman",
+    "org": false
+  },
+  {
+    "name": "Bin",
+    "login": "ffgenius",
+    "avatar": "https://avatars.githubusercontent.com/u/106022674?u=f81a4ad2a75c9c182998f428223da78ba4d35515&v=4",
+    "amount": -1,
+    "link": "https://github.com/ffgenius",
     "org": false
   },
   {
@@ -1061,6 +1053,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/73387709?u=f2faf7d9a87d16bbb387f82924f1da9e1bbd9fac&v=4",
     "amount": -1,
     "link": "https://github.com/younggglcy",
+    "org": false
+  },
+  {
+    "name": "yyyanghj",
+    "login": "yyyanghj",
+    "avatar": "https://avatars.githubusercontent.com/u/34713301?u=cc905db1000f332998f708a154d9d5ef16c3c894&v=4",
+    "amount": -1,
+    "link": "https://github.com/yyyanghj",
     "org": false
   },
   {
