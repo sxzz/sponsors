@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       sponsorkit:
-        specifier: ^16.4.0
-        version: 16.4.0
+        specifier: ^16.4.1
+        version: 16.4.1
     devDependencies:
       '@types/node':
         specifier: ^22.13.10
@@ -201,8 +201,8 @@ packages:
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
 
-  sponsorkit@16.4.0:
-    resolution: {integrity: sha512-rmuNZ2/HtG+CXFWkMfeS0hbfy5NseiZ2Pw8JAxlDHEkLkrUxRNsAp6QFvDkKIU1xnMwMDemB33kk9irjGH7WPw==}
+  sponsorkit@16.4.1:
+    resolution: {integrity: sha512-wSQGLjG5RsN6b1CHKW2BUFVJ5h6PxlkTCqfvEzWQRUjg7RUtArG5z9n4/aHvMjdNWGuGIMC6Fdw0hm9KwaL0hA==}
     hasBin: true
 
   tslib@2.6.3:
@@ -383,7 +383,7 @@ snapshots:
     dependencies:
       is-arrayish: 0.3.2
 
-  sponsorkit@16.4.0:
+  sponsorkit@16.4.1:
     dependencies:
       ansis: 3.17.0
       cac: 6.7.14
