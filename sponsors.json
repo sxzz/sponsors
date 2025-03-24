@@ -1,5 +1,13 @@
 [
   {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": 1024,
+    "link": "https://github.com/voidzero-dev",
+    "org": true
+  },
+  {
     "name": "Vue.js Japan User Group",
     "login": "vuejs-jp",
     "avatar": "https://avatars.githubusercontent.com/u/11144750?v=4",
