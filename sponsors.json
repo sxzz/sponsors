@@ -66,7 +66,7 @@
   {
     "name": "warmthsea",
     "login": "d6b7a9c80e9c11eeacce5254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/b1cb25339123352f68218fc4adf0581d_w666_h666_s62.jpeg",
+    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/60c2af441edaeb8ba3ecb7d7d3e4d992_w810_h810_s110.jpeg",
     "amount": 33.38235294117647,
     "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
     "org": false
@@ -405,6 +405,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
     "amount": 4,
     "link": "https://github.com/Nisgrak",
+    "org": false
+  },
+  {
+    "name": "Elliot Chen",
+    "login": "cyfyifanchen",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
+    "amount": 4,
+    "link": "https://github.com/cyfyifanchen",
     "org": false
   },
   {
@@ -750,14 +758,6 @@
     "amount": -1,
     "link": "https://github.com/365talents",
     "org": true
-  },
-  {
-    "name": "Elliot Chen",
-    "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
-    "amount": -1,
-    "link": "https://github.com/cyfyifanchen",
-    "org": false
   },
   {
     "name": "Arlo",
