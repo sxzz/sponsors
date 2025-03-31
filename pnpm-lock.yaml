@@ -9,12 +9,12 @@ importers:
   .:
     dependencies:
       sponsorkit:
-        specifier: ^16.4.1
-        version: 16.4.1
+        specifier: ^16.4.2
+        version: 16.4.2
     devDependencies:
       '@types/node':
-        specifier: ^22.13.10
-        version: 22.13.10
+        specifier: ^22.13.14
+        version: 22.13.14
 
 packages:
 
@@ -130,8 +130,8 @@ packages:
     resolution: {integrity: sha512-sx8J1O/+j2lqs8MvsEz6rs/6UAUpCb4fu7C6EqtMqzbS3CmqLkTDTOMK+DrWukvyUuHzl8DhMjfNJzQDTqfGJg==}
     engines: {node: '>=20.18.0'}
 
-  '@types/node@22.13.10':
-    resolution: {integrity: sha512-I6LPUvlRH+O6VRUqYOcMudhaIdUVWfsjnZavnsraHvpBwaEyMN29ry+0UVJhImYL16xsscu0aske3yA+uPOWfw==}
+  '@types/node@22.13.14':
+    resolution: {integrity: sha512-Zs/Ollc1SJ8nKUAgc7ivOEdIBM8JAKgrqqUYi2J997JuKO7/tpQC+WCetQ1sypiKCQWHdvdg9wBNpUPEWZae7w==}
 
   ansis@3.17.0:
     resolution: {integrity: sha512-0qWUglt9JEqLFr3w1I1pbrChn1grhaiAR2ocX1PP/flRmxgtwTzPFFFnfIlD6aMOLQZgSuCRlidD70lvx8yhzg==}
@@ -201,8 +201,8 @@ packages:
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
 
-  sponsorkit@16.4.1:
-    resolution: {integrity: sha512-wSQGLjG5RsN6b1CHKW2BUFVJ5h6PxlkTCqfvEzWQRUjg7RUtArG5z9n4/aHvMjdNWGuGIMC6Fdw0hm9KwaL0hA==}
+  sponsorkit@16.4.2:
+    resolution: {integrity: sha512-hvWtgiwNwkmussn7R250hFnQ/IOj1m/Oi2CAXjgRVWUuRVWEYDKYk4loNiojitLGo9y36dTZOcVO7HxtG1UXnQ==}
     hasBin: true
 
   tslib@2.6.3:
@@ -303,7 +303,7 @@ snapshots:
     dependencies:
       quansync: 0.2.8
 
-  '@types/node@22.13.10':
+  '@types/node@22.13.14':
     dependencies:
       undici-types: 6.20.0
 
@@ -383,7 +383,7 @@ snapshots:
     dependencies:
       is-arrayish: 0.3.2
 
-  sponsorkit@16.4.1:
+  sponsorkit@16.4.2:
     dependencies:
       ansis: 3.17.0
       cac: 6.7.14
