@@ -96,14 +96,6 @@
     "org": false
   },
   {
-    "name": "Ari Perkkiö",
-    "login": "AriPerkkio",
-    "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
-    "amount": 20,
-    "link": "https://github.com/AriPerkkio",
-    "org": false
-  },
-  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -496,6 +488,14 @@
     "org": false
   },
   {
+    "name": "Ari Perkkiö",
+    "login": "AriPerkkio",
+    "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
+    "amount": -1,
+    "link": "https://github.com/AriPerkkio",
+    "org": false
+  },
+  {
     "name": "Stephen Zhou",
     "login": "hyoban",
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=a1fe88ada88320b64b20b62510d6c7647498875f&v=4",
@@ -682,7 +682,7 @@
   {
     "name": "Carl Chen",
     "login": "cc-hearts",
-    "avatar": "https://avatars.githubusercontent.com/u/71313168?u=39b954e833f0304295a27312299792b57b305b50&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/71313168?u=984945d9f24072b730c5ec305b22a8062d295a2f&v=4",
     "amount": -1,
     "link": "https://github.com/cc-hearts",
     "org": false
