@@ -32,6 +32,14 @@
     "org": false
   },
   {
+    "name": "SnowGuest",
+    "login": "a305d958bfca11e9b11c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
+    "amount": 95.58823529411765,
+    "link": "https://afdian.com/u/a305d958bfca11e9b11c52540025c377",
+    "org": false
+  },
+  {
     "name": "yeeel",
     "login": "65c291220f6411f0960e5254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
@@ -293,14 +301,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/52577448?u=0cc19d3c251b71a40adf95258ec0187d2d1cfcba&v=4",
     "amount": 8,
     "link": "https://github.com/Hazel-Lin",
-    "org": false
-  },
-  {
-    "name": "SnowGuest",
-    "login": "a305d958bfca11e9b11c52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
-    "amount": 7.352941176470589,
-    "link": "https://afdian.com/u/a305d958bfca11e9b11c52540025c377",
     "org": false
   },
   {
