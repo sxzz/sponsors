@@ -16,14 +16,6 @@
     "org": true
   },
   {
-    "name": "Evan You",
-    "login": "yyx990803",
-    "avatar": "https://avatars.githubusercontent.com/u/499550?u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
-    "amount": 512,
-    "link": "https://github.com/yyx990803",
-    "org": false
-  },
-  {
     "name": "Fisschl",
     "login": "fb1e915a405011ea8f5c52540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/fb1e915a405011ea8f5c52540025c377/avatar/540fe21ac7e95eb0424dc74100402f17_w700_h700_s514.jpeg",
@@ -1141,6 +1133,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
     "amount": -1,
     "link": "https://github.com/robokozo",
+    "org": false
+  },
+  {
+    "name": "Evan You",
+    "login": "yyx990803",
+    "avatar": "https://avatars.githubusercontent.com/u/499550?u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
+    "amount": -1,
+    "link": "https://github.com/yyx990803",
     "org": false
   },
   {
