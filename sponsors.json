@@ -120,14 +120,6 @@
     "org": false
   },
   {
-    "name": "白雾三语",
-    "login": "baiwusanyu-c",
-    "avatar": "https://avatars.githubusercontent.com/u/32354856?u=8bc9bdbf7c889cf533786247e4f897c09898f712&v=4",
-    "amount": 16,
-    "link": "https://github.com/baiwusanyu-c",
-    "org": false
-  },
-  {
     "name": "zernonia",
     "login": "zernonia",
     "avatar": "https://avatars.githubusercontent.com/u/59365435?u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4",
@@ -650,7 +642,7 @@
   {
     "name": "可圭共",
     "login": "keguigong",
-    "avatar": "https://avatars.githubusercontent.com/u/29125211?u=06ef1f3878957e9f588eccfb9c0dd3dae4dc982d&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/29125211?u=f110954b97cfde5739da41ef37e377030f94976b&v=4",
     "amount": -1,
     "link": "https://github.com/keguigong",
     "org": false
@@ -952,7 +944,7 @@
     "org": false
   },
   {
-    "name": "𝘉𝘰𝘣 𝘡𝘩𝘦𝘯𝘨",
+    "name": null,
     "login": "bobz25",
     "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
     "amount": -1,
@@ -1197,6 +1189,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30924105?u=3ab123c6da5ffc3f7a6083e029718654644fcbc3&v=4",
     "amount": -1,
     "link": "https://github.com/WoJiaoFuXiaoYun",
+    "org": false
+  },
+  {
+    "name": "白雾三语",
+    "login": "baiwusanyu-c",
+    "avatar": "https://avatars.githubusercontent.com/u/32354856?u=8bc9bdbf7c889cf533786247e4f897c09898f712&v=4",
+    "amount": -1,
+    "link": "https://github.com/baiwusanyu-c",
     "org": false
   },
   {
