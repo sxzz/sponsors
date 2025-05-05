@@ -45,8 +45,6 @@
 
 </details>
 
-https://donate.stripe.com/aEU7sW3dJ2r15XO5kk
-
 ## 通过爱发电赞助
 
 如果您无法使用 GitHub Sponsor，可以通过爱发电赞助我。

@@ -11,7 +11,7 @@ If my code has helped you, please consider [sponsoring me](https://github.com/sp
 
 Thank you for your support!
 
-## Doc
+## Docs
 
 - [中国大陆用户指南 / Chinese Guide](./doc/chinese-guide.md)
 
