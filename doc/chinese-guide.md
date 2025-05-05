@@ -45,10 +45,6 @@
 
 </details>
 
-## 通过 Stripe 赞助
-
-如果您无法使用 GitHub Sponsor，可以通过 Stripe 赞助我。支持各种银行卡与支付宝。
-
 https://donate.stripe.com/aEU7sW3dJ2r15XO5kk
 
 ## 通过爱发电赞助
