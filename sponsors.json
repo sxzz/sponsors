@@ -176,14 +176,6 @@
     "org": false
   },
   {
-    "name": ":Roger!",
-    "login": "icarusgk",
-    "avatar": "https://avatars.githubusercontent.com/u/38413630?u=f9c3c84826acb74d80023c8dcd96c2fa029872b8&v=4",
-    "amount": 8,
-    "link": "https://github.com/icarusgk",
-    "org": false
-  },
-  {
     "name": "N.Esaki",
     "login": "nobuhideesaki",
     "avatar": "https://avatars.githubusercontent.com/u/38354560?u=95fca82ebc31113e964badc40f1d106dfa260271&v=4",
@@ -501,6 +493,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/user_upload_osl/f8c715357b9e8e444d9f2c0243d9dd12_w132_h132_s2.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/b015480ed12311edb6f752540025c377",
+    "org": false
+  },
+  {
+    "name": ":Roger!",
+    "login": "icarusgk",
+    "avatar": "https://avatars.githubusercontent.com/u/38413630?u=f9c3c84826acb74d80023c8dcd96c2fa029872b8&v=4",
+    "amount": -1,
+    "link": "https://github.com/icarusgk",
     "org": false
   },
   {
@@ -1176,7 +1176,7 @@
     "org": false
   },
   {
-    "name": "三咲雅 · Misaki Masa",
+    "name": "三咲雅 misaki masa",
     "login": "sxyazi",
     "avatar": "https://avatars.githubusercontent.com/u/17523360?u=b349e32966ba7b6aa5ac4b0f2d34547cb148cc73&v=4",
     "amount": -1,
