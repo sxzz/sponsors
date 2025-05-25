@@ -96,14 +96,6 @@
     "org": false
   },
   {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 18,
-    "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -384,14 +376,6 @@
     "org": false
   },
   {
-    "name": "Elliot Chen",
-    "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
-    "amount": 4,
-    "link": "https://github.com/cyfyifanchen",
-    "org": false
-  },
-  {
     "name": "WangJie",
     "login": "cnwangjie",
     "avatar": "https://avatars.githubusercontent.com/u/7459652?u=a7c2963a25b721c077e503216e54a5e208feccc7&v=4",
@@ -448,6 +432,14 @@
     "org": false
   },
   {
+    "name": "Elliot Chen",
+    "login": "cyfyifanchen",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
+    "amount": 2,
+    "link": "https://github.com/cyfyifanchen",
+    "org": false
+  },
+  {
     "name": "Liu Bo",
     "login": "liulinboyi",
     "avatar": "https://avatars.githubusercontent.com/u/41336612?u=dde9a038da269b0035f87e3ecf87a1d0ef49a30d&v=4",
@@ -470,6 +462,14 @@
     "amount": 1,
     "link": "https://github.com/emojiiii",
     "org": false
+  },
+  {
+    "name": "thanks.dev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
   },
   {
     "name": "Ari Perkkiö",
