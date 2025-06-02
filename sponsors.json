@@ -216,14 +216,6 @@
     "org": false
   },
   {
-    "name": "ergou",
-    "login": "RayGuo-ergou",
-    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
-    "amount": 8,
-    "link": "https://github.com/RayGuo-ergou",
-    "org": false
-  },
-  {
     "name": "zhiyuanzmj",
     "login": "zhiyuanzmj",
     "avatar": "https://avatars.githubusercontent.com/u/32807958?u=e0d66a72ca82a00c3780a17fb637a3f8416124e6&v=4",
@@ -373,6 +365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
     "amount": 4,
     "link": "https://github.com/Nisgrak",
+    "org": false
+  },
+  {
+    "name": "ergou",
+    "login": "RayGuo-ergou",
+    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
+    "amount": 4,
+    "link": "https://github.com/RayGuo-ergou",
     "org": false
   },
   {
