@@ -24,6 +24,14 @@
     "org": false
   },
   {
+    "name": "远方os",
+    "login": "Alfred-Skyblue",
+    "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
+    "amount": 100,
+    "link": "https://github.com/Alfred-Skyblue",
+    "org": false
+  },
+  {
     "name": "SnowGuest",
     "login": "a305d958bfca11e9b11c52540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
@@ -85,6 +93,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/60c2af441edaeb8ba3ecb7d7d3e4d992_w810_h810_s110.jpeg",
     "amount": 33.38235294117647,
     "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Christian Byrne",
+    "login": "christian-byrne",
+    "avatar": "https://avatars.githubusercontent.com/u/72887196?u=6e31f79ea33e0e6032dfa70546a04949bd2990f7&v=4",
+    "amount": 32,
+    "link": "https://github.com/christian-byrne",
     "org": false
   },
   {
