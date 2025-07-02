@@ -128,6 +128,14 @@
     "org": false
   },
   {
+    "name": "91122",
+    "login": "91122668985111ecbf7a52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
+    "amount": 18.823529411764707,
+    "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
+    "org": false
+  },
+  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -189,14 +197,6 @@
     "avatar": "https://pic1.afdiancdn.com/user/c8f2bf34f3fb11eb880252540025c377/avatar/7c6ffbdc73172ab984eda0c60e484c92_w400_h400_s32.jpeg",
     "amount": 9.705882352941178,
     "link": "https://afdian.com/u/c8f2bf34f3fb11eb880252540025c377",
-    "org": false
-  },
-  {
-    "name": "91122",
-    "login": "91122668985111ecbf7a52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
-    "amount": 9.411764705882353,
-    "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
     "org": false
   },
   {
@@ -421,14 +421,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
     "amount": 4,
     "link": "https://github.com/Nisgrak",
-    "org": false
-  },
-  {
-    "name": "ergou",
-    "login": "RayGuo-ergou",
-    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
-    "amount": 4,
-    "link": "https://github.com/RayGuo-ergou",
     "org": false
   },
   {
@@ -658,7 +650,7 @@
   {
     "name": "Roman Hrynevych",
     "login": "hrynevychroman",
-    "avatar": "https://avatars.githubusercontent.com/u/82209198?u=5d2cf23be0eac8f138ffe0bc03c9ac95286cabad&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/82209198?u=1a1d111ab3d589855b9cc8a7fefb1b5c6a4fbbaf&v=4",
     "amount": -1,
     "link": "https://github.com/hrynevychroman",
     "org": false
@@ -885,6 +877,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/3052305a43e411ec977b52540025c377/avatar/356338717897bf6145278f026208b279_w940_h940_s28.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/3052305a43e411ec977b52540025c377",
+    "org": false
+  },
+  {
+    "name": "ergou",
+    "login": "RayGuo-ergou",
+    "avatar": "https://avatars.githubusercontent.com/u/33137074?u=b294d3d1f9bbd5af69e15b0782071eb9ec94a785&v=4",
+    "amount": -1,
+    "link": "https://github.com/RayGuo-ergou",
     "org": false
   },
   {
