@@ -1,13 +1,5 @@
 [
   {
-    "name": "VoidZero",
-    "login": "voidzero-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
-    "amount": 2500,
-    "link": "https://github.com/voidzero-dev",
-    "org": true
-  },
-  {
     "name": "Vue.js Japan User Group",
     "login": "vuejs-jp",
     "avatar": "https://avatars.githubusercontent.com/u/11144750?v=4",
@@ -165,14 +157,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/59365435?u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4",
     "amount": 10,
     "link": "https://github.com/zernonia",
-    "org": false
-  },
-  {
-    "name": "justinchiu",
-    "login": "justinzpc",
-    "avatar": "https://avatars.githubusercontent.com/u/16377701?u=c06d8ac9fbcbe668698ce96b3081fc2e51243449&v=4",
-    "amount": 10,
-    "link": "https://github.com/justinzpc",
     "org": false
   },
   {
@@ -360,6 +344,14 @@
     "org": false
   },
   {
+    "name": "Oskar Lebuda",
+    "login": "OskarLebuda",
+    "avatar": "https://avatars.githubusercontent.com/u/10373127?u=33d3700cfce271aa08ff62412cc6e51568a2f9fc&v=4",
+    "amount": 4,
+    "link": "https://github.com/OskarLebuda",
+    "org": false
+  },
+  {
     "name": "Arnaud Barré",
     "login": "ArnaudBarre",
     "avatar": "https://avatars.githubusercontent.com/u/14235743?u=1e3fb343c89f3f3ab51080295026475541c390f8&v=4",
@@ -525,6 +517,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
     "amount": -1,
     "link": "https://github.com/thnxdev",
+    "org": true
+  },
+  {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": -1,
+    "link": "https://github.com/voidzero-dev",
     "org": true
   },
   {
