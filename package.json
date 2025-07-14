@@ -1,11 +1,11 @@
 {
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.12.4",
+  "packageManager": "pnpm@10.13.1",
   "dependencies": {
     "sponsorkit": "^16.5.0"
   },
   "devDependencies": {
-    "@types/node": "^22.16.0"
+    "@types/node": "^22.16.3"
   }
 }
