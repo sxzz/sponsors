@@ -176,14 +176,6 @@
     "org": false
   },
   {
-    "name": "so1ve",
-    "login": "c8f2bf34f3fb11eb880252540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/c8f2bf34f3fb11eb880252540025c377/avatar/7c6ffbdc73172ab984eda0c60e484c92_w400_h400_s32.jpeg",
-    "amount": 9.705882352941178,
-    "link": "https://afdian.com/u/c8f2bf34f3fb11eb880252540025c377",
-    "org": false
-  },
-  {
     "name": "Yue JIN",
     "login": "kingyue737",
     "avatar": "https://avatars.githubusercontent.com/u/40021217?u=b30a0f4a2dc67d05306b9601816f7818eec3882d&v=4",
@@ -904,6 +896,14 @@
     "org": false
   },
   {
+    "name": "so1ve",
+    "login": "c8f2bf34f3fb11eb880252540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/c8f2bf34f3fb11eb880252540025c377/avatar/7c6ffbdc73172ab984eda0c60e484c92_w400_h400_s32.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/c8f2bf34f3fb11eb880252540025c377",
+    "org": false
+  },
+  {
     "name": "Jordan",
     "login": "JordashTalon",
     "avatar": "https://avatars.githubusercontent.com/u/957100?u=36a4aea3a0602fea6e0a16d44355f001e1e42eba&v=4",
@@ -1360,7 +1360,7 @@
     "org": true
   },
   {
-    "name": "Andrei L",
+    "name": "Andrei",
     "login": "unrevised6419",
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
