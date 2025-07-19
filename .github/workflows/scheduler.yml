@@ -17,7 +17,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: lts/*
+          node-version: 24
           cache: pnpm
 
       - name: Install deps
@@ -39,3 +39,6 @@ jobs:
           add: 'sponsors.*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Purge Cache
+        run: node purge-cache.ts
