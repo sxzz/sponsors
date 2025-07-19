@@ -1,5 +1,13 @@
 [
   {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": 2500,
+    "link": "https://github.com/voidzero-dev",
+    "org": true
+  },
+  {
     "name": "Vue.js Japan User Group",
     "login": "vuejs-jp",
     "avatar": "https://avatars.githubusercontent.com/u/11144750?v=4",
@@ -509,14 +517,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
     "amount": -1,
     "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
-    "name": "VoidZero",
-    "login": "voidzero-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
-    "amount": -1,
-    "link": "https://github.com/voidzero-dev",
     "org": true
   },
   {
@@ -1066,7 +1066,7 @@
   {
     "name": "Cali Castle",
     "login": "CaliCastle",
-    "avatar": "https://avatars.githubusercontent.com/u/10830749?u=143e1ac3c2065edddcd89dc9e785a7845ab896cb&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/10830749?u=c8ef6d06d523cda9e114efa5adfd783783c21b2a&v=4",
     "amount": -1,
     "link": "https://github.com/CaliCastle",
     "org": false
