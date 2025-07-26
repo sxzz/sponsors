@@ -152,14 +152,6 @@
     "org": false
   },
   {
-    "name": "John",
-    "login": "robokozo",
-    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
-    "amount": 12,
-    "link": "https://github.com/robokozo",
-    "org": false
-  },
-  {
     "name": "zernonia",
     "login": "zernonia",
     "avatar": "https://avatars.githubusercontent.com/u/59365435?u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4",
@@ -1170,7 +1162,7 @@
   {
     "name": "AingCyan",
     "login": "AqingCyan",
-    "avatar": "https://avatars.githubusercontent.com/u/32301956?u=32b904496d3afbc327f72a67964688db9e75d465&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/32301956?u=c8cb352aba037339dbf67812f339603efebfbf43&v=4",
     "amount": -1,
     "link": "https://github.com/AqingCyan",
     "org": false
@@ -1181,6 +1173,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/79413249?u=d16a975fd5aa6e4753609d46c71906b5434c2884&v=4",
     "amount": -1,
     "link": "https://github.com/SoonIter",
+    "org": false
+  },
+  {
+    "name": "John",
+    "login": "robokozo",
+    "avatar": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
+    "amount": -1,
+    "link": "https://github.com/robokozo",
     "org": false
   },
   {
