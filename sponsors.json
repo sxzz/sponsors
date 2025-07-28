@@ -24,14 +24,6 @@
     "org": false
   },
   {
-    "name": "远方os",
-    "login": "Alfred-Skyblue",
-    "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
-    "amount": 100,
-    "link": "https://github.com/Alfred-Skyblue",
-    "org": false
-  },
-  {
     "name": "SnowGuest",
     "login": "a305d958bfca11e9b11c52540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
@@ -344,6 +336,14 @@
     "org": false
   },
   {
+    "name": "Triumph-light",
+    "login": "Triumph-light",
+    "avatar": "https://avatars.githubusercontent.com/u/76158517?u=8120c0c76318e58d88e854ef341b5f6c1b78cd6f&v=4",
+    "amount": 4,
+    "link": "https://github.com/Triumph-light",
+    "org": false
+  },
+  {
     "name": "Oskar Lebuda",
     "login": "OskarLebuda",
     "avatar": "https://avatars.githubusercontent.com/u/10373127?u=33d3700cfce271aa08ff62412cc6e51568a2f9fc&v=4",
@@ -509,6 +509,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=4e71976c316a16ae8f86e4088858ccd9251e4ad2&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "远方os",
+    "login": "Alfred-Skyblue",
+    "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
+    "amount": -1,
+    "link": "https://github.com/Alfred-Skyblue",
     "org": false
   },
   {
