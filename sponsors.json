@@ -131,7 +131,7 @@
     "name": "91122",
     "login": "91122668985111ecbf7a52540025c377",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
-    "amount": 18.823529411764707,
+    "amount": 28.235294117647058,
     "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
     "org": false
   },
@@ -189,14 +189,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/40021217?u=b30a0f4a2dc67d05306b9601816f7818eec3882d&v=4",
     "amount": 8,
     "link": "https://github.com/kingyue737",
-    "org": false
-  },
-  {
-    "name": "Hiroshi Ogawa",
-    "login": "hi-ogawa",
-    "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4",
-    "amount": 8,
-    "link": "https://github.com/hi-ogawa",
     "org": false
   },
   {
@@ -542,6 +534,14 @@
     "amount": -1,
     "link": "https://github.com/thnxdev",
     "org": true
+  },
+  {
+    "name": "Hiroshi Ogawa",
+    "login": "hi-ogawa",
+    "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4",
+    "amount": -1,
+    "link": "https://github.com/hi-ogawa",
+    "org": false
   },
   {
     "name": "Ari Perkkiö",
