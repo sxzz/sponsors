@@ -368,6 +368,14 @@
     "org": false
   },
   {
+    "name": "Ari Perkkiö",
+    "login": "AriPerkkio",
+    "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
+    "amount": 4,
+    "link": "https://github.com/AriPerkkio",
+    "org": false
+  },
+  {
     "name": "Masanori Doizaki",
     "login": "mdoi2",
     "avatar": "https://avatars.githubusercontent.com/u/6340506?u=4c580429146b659db663212a7555b4af80fde31d&v=4",
@@ -541,14 +549,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4",
     "amount": -1,
     "link": "https://github.com/hi-ogawa",
-    "org": false
-  },
-  {
-    "name": "Ari Perkkiö",
-    "login": "AriPerkkio",
-    "avatar": "https://avatars.githubusercontent.com/u/14806298?u=3ddd26d15c2ad4193edd0e8bc6070510748bd211&v=4",
-    "amount": -1,
-    "link": "https://github.com/AriPerkkio",
     "org": false
   },
   {
