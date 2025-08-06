@@ -176,19 +176,19 @@
     "org": false
   },
   {
+    "name": "RainbowBird",
+    "login": "luoling8192",
+    "avatar": "https://avatars.githubusercontent.com/u/44741987?u=a332cdc8c82452d428d048c8f1e651a84795fc21&v=4",
+    "amount": 8,
+    "link": "https://github.com/luoling8192",
+    "org": false
+  },
+  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
     "amount": 8,
     "link": "https://github.com/ilyaliao",
-    "org": false
-  },
-  {
-    "name": "Yue JIN",
-    "login": "kingyue737",
-    "avatar": "https://avatars.githubusercontent.com/u/40021217?u=b30a0f4a2dc67d05306b9601816f7818eec3882d&v=4",
-    "amount": 8,
-    "link": "https://github.com/kingyue737",
     "org": false
   },
   {
@@ -525,6 +525,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/30518686?u=4e71976c316a16ae8f86e4088858ccd9251e4ad2&v=4",
     "amount": 1,
     "link": "https://github.com/emojiiii",
+    "org": false
+  },
+  {
+    "name": "Yue JIN",
+    "login": "kingyue737",
+    "avatar": "https://avatars.githubusercontent.com/u/40021217?u=b30a0f4a2dc67d05306b9601816f7818eec3882d&v=4",
+    "amount": -1,
+    "link": "https://github.com/kingyue737",
     "org": false
   },
   {
