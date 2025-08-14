@@ -320,6 +320,14 @@
     "org": false
   },
   {
+    "name": "Innei",
+    "login": "Innei",
+    "avatar": "https://avatars.githubusercontent.com/u/41265413?u=44b24b8f9ff4705b9a9daf71960806af36d19eee&v=4",
+    "amount": 5,
+    "link": "https://github.com/Innei",
+    "org": false
+  },
+  {
     "name": "Jinjiang",
     "login": "Jinjiang",
     "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
@@ -1061,14 +1069,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/15833290?u=40d2551d351ee8656dcf204c9fd073465b8e5732&v=4",
     "amount": -1,
     "link": "https://github.com/zhousg",
-    "org": false
-  },
-  {
-    "name": "Innei",
-    "login": "Innei",
-    "avatar": "https://avatars.githubusercontent.com/u/41265413?u=44b24b8f9ff4705b9a9daf71960806af36d19eee&v=4",
-    "amount": -1,
-    "link": "https://github.com/Innei",
     "org": false
   },
   {
