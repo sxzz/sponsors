@@ -14,20 +14,8 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v5
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4.1.0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: lts/*
-          cache: pnpm
-
-      - name: Install dependencies
-        run: pnpm install
+      - name: Setup JS
+        uses: sxzz/workflows/setup-js@v1
 
       - name: Update sponsors
         run: pnpm exec sponsorkit --dir .
