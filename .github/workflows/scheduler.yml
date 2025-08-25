@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Setup JS
         uses: sxzz/workflows/setup-js@v1
+        with:
+          persist-credentials: true
 
       - name: Update sponsors
         run: pnpm exec sponsorkit --dir .
