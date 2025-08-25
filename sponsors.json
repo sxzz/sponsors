@@ -32,6 +32,14 @@
     "org": true
   },
   {
+    "name": "Alex Yang",
+    "login": "himself65",
+    "avatar": "https://avatars.githubusercontent.com/u/14026360?u=c75e1c79a305a0c9f9726212550281f60157f759&v=4",
+    "amount": 64,
+    "link": "https://github.com/himself65",
+    "org": false
+  },
+  {
     "name": "Matt Maribojoc",
     "login": "mattmaribojoc",
     "avatar": "https://avatars.githubusercontent.com/u/18535681?u=4a22b2924d1522f8e6c6e8960c0b459a38704347&v=4",
@@ -1101,14 +1109,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/8266075?u=9de49c9b3eaf4db02e685458cb64b64c172034bf&v=4",
     "amount": -1,
     "link": "https://github.com/DIYgod",
-    "org": false
-  },
-  {
-    "name": "Alex Yang",
-    "login": "himself65",
-    "avatar": "https://avatars.githubusercontent.com/u/14026360?u=c75e1c79a305a0c9f9726212550281f60157f759&v=4",
-    "amount": -1,
-    "link": "https://github.com/himself65",
     "org": false
   },
   {
