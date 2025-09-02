@@ -520,14 +520,6 @@
     "org": false
   },
   {
-    "name": "Elliot Chen",
-    "login": "cyfyifanchen",
-    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
-    "amount": 2,
-    "link": "https://github.com/cyfyifanchen",
-    "org": false
-  },
-  {
     "name": "Liu Bo",
     "login": "liulinboyi",
     "avatar": "https://avatars.githubusercontent.com/u/41336612?u=dde9a038da269b0035f87e3ecf87a1d0ef49a30d&v=4",
@@ -886,6 +878,14 @@
     "amount": -1,
     "link": "https://github.com/365talents",
     "org": true
+  },
+  {
+    "name": "Elliot Chen",
+    "login": "cyfyifanchen",
+    "avatar": "https://avatars.githubusercontent.com/u/2340896?u=e1613eea42b2f0d85cff868f638c31f8682398cb&v=4",
+    "amount": -1,
+    "link": "https://github.com/cyfyifanchen",
+    "org": false
   },
   {
     "name": "Arlo",
