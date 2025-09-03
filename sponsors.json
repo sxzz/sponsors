@@ -264,14 +264,6 @@
     "org": false
   },
   {
-    "name": "Hazel",
-    "login": "Hazel-Lin",
-    "avatar": "https://avatars.githubusercontent.com/u/52577448?u=0cc19d3c251b71a40adf95258ec0187d2d1cfcba&v=4",
-    "amount": 8,
-    "link": "https://github.com/Hazel-Lin",
-    "org": false
-  },
-  {
     "name": "yeeel",
     "login": "65c291220f6411f0960e5254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
@@ -1149,6 +1141,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/41773861?u=7d437cf46b95c2ceb37cc35acb10103c4022f94b&v=4",
     "amount": -1,
     "link": "https://github.com/tjx666",
+    "org": false
+  },
+  {
+    "name": "Hazel",
+    "login": "Hazel-Lin",
+    "avatar": "https://avatars.githubusercontent.com/u/52577448?u=0cc19d3c251b71a40adf95258ec0187d2d1cfcba&v=4",
+    "amount": -1,
+    "link": "https://github.com/Hazel-Lin",
     "org": false
   },
   {
