@@ -408,14 +408,6 @@
     "org": false
   },
   {
-    "name": "Naoya Miyagawa",
-    "login": "NaoyaMiyagawa",
-    "avatar": "https://avatars.githubusercontent.com/u/38244632?u=42ca3d12a7735d005c96ec87abd64aab22cc1af1&v=4",
-    "amount": 4,
-    "link": "https://github.com/NaoyaMiyagawa",
-    "org": false
-  },
-  {
     "name": "Milos Dimitrijevic",
     "login": "milos018",
     "avatar": "https://avatars.githubusercontent.com/u/46306967?u=771a9a638e8d2d13b28a2e0f2d357cc45e0d298a&v=4",
@@ -805,6 +797,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/64841155?u=fc19a030dfc6e913e2a8544a7d15755b714ff3e2&v=4",
     "amount": -1,
     "link": "https://github.com/NanamiNakano",
+    "org": false
+  },
+  {
+    "name": "Naoya Miyagawa",
+    "login": "NaoyaMiyagawa",
+    "avatar": "https://avatars.githubusercontent.com/u/38244632?u=42ca3d12a7735d005c96ec87abd64aab22cc1af1&v=4",
+    "amount": -1,
+    "link": "https://github.com/NaoyaMiyagawa",
     "org": false
   },
   {
