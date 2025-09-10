@@ -520,14 +520,6 @@
     "org": false
   },
   {
-    "name": "emojiiii",
-    "login": "emojiiii",
-    "avatar": "https://avatars.githubusercontent.com/u/30518686?u=4e71976c316a16ae8f86e4088858ccd9251e4ad2&v=4",
-    "amount": 1,
-    "link": "https://github.com/emojiiii",
-    "org": false
-  },
-  {
     "name": "dalaoshu",
     "login": "shulaoda",
     "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
@@ -736,7 +728,7 @@
     "org": false
   },
   {
-    "name": "可圭共",
+    "name": "keguigong",
     "login": "keguigong",
     "avatar": "https://avatars.githubusercontent.com/u/29125211?u=35b98618c1ed2e68530b01089f6397dbe6e7566c&v=4",
     "amount": -1,
@@ -1421,6 +1413,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1881266?u=c86b7c7b8ffb23f5ee29bb80e4d1c22aee94b273&v=4",
     "amount": -1,
     "link": "https://github.com/unrevised6419",
+    "org": false
+  },
+  {
+    "name": "emojiiii",
+    "login": "emojiiii",
+    "avatar": "https://avatars.githubusercontent.com/u/30518686?u=4e71976c316a16ae8f86e4088858ccd9251e4ad2&v=4",
+    "amount": -1,
+    "link": "https://github.com/emojiiii",
     "org": false
   },
   {
