@@ -40,14 +40,6 @@
     "org": false
   },
   {
-    "name": "Matt Maribojoc",
-    "login": "mattmaribojoc",
-    "avatar": "https://avatars.githubusercontent.com/u/18535681?u=4a22b2924d1522f8e6c6e8960c0b459a38704347&v=4",
-    "amount": 64,
-    "link": "https://github.com/mattmaribojoc",
-    "org": false
-  },
-  {
     "name": "patak",
     "login": "patak-dev",
     "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
@@ -296,14 +288,6 @@
     "org": false
   },
   {
-    "name": "Innei",
-    "login": "Innei",
-    "avatar": "https://avatars.githubusercontent.com/u/41265413?u=44b24b8f9ff4705b9a9daf71960806af36d19eee&v=4",
-    "amount": 5,
-    "link": "https://github.com/Innei",
-    "org": false
-  },
-  {
     "name": "Jinjiang",
     "login": "Jinjiang",
     "avatar": "https://avatars.githubusercontent.com/u/206848?u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4",
@@ -322,7 +306,7 @@
   {
     "name": "Naoki Haba",
     "login": "naokihaba",
-    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=b9d0c3055cf69b54f327e3acee3fb3b72a8d0aed&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/59875779?u=ad854a828aababe2ae13591bea579b637b8152c4&v=4",
     "amount": 4,
     "link": "https://github.com/naokihaba",
     "org": false
@@ -1072,6 +1056,14 @@
     "org": false
   },
   {
+    "name": "Innei",
+    "login": "Innei",
+    "avatar": "https://avatars.githubusercontent.com/u/41265413?u=44b24b8f9ff4705b9a9daf71960806af36d19eee&v=4",
+    "amount": -1,
+    "link": "https://github.com/Innei",
+    "org": false
+  },
+  {
     "name": "Caspian 東澔",
     "login": "dohooo",
     "avatar": "https://avatars.githubusercontent.com/u/32405058?u=ebedfa6ddeb5c423983630f9d265e1e746fab8de&v=4",
@@ -1125,6 +1117,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/25446947?u=d6eb46cc061050f6a5f1e0b45e7b386a13d8a3a3&v=4",
     "amount": -1,
     "link": "https://github.com/linesoft2",
+    "org": false
+  },
+  {
+    "name": "Matt Maribojoc",
+    "login": "mattmaribojoc",
+    "avatar": "https://avatars.githubusercontent.com/u/18535681?u=4a22b2924d1522f8e6c6e8960c0b459a38704347&v=4",
+    "amount": -1,
+    "link": "https://github.com/mattmaribojoc",
     "org": false
   },
   {
