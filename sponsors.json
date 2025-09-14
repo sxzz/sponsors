@@ -464,14 +464,6 @@
     "org": false
   },
   {
-    "name": "ModyQyW",
-    "login": "759c75d4d67011eca28252540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/759c75d4d67011eca28252540025c377/avatar/8ed2b1d70a586bea392cab61c848510b_w512_h512_s32.png",
-    "amount": 2.3529411764705883,
-    "link": "https://afdian.com/u/759c75d4d67011eca28252540025c377",
-    "org": false
-  },
-  {
     "name": "warmthsea",
     "login": "d6b7a9c80e9c11eeacce5254001e7c00",
     "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/60c2af441edaeb8ba3ecb7d7d3e4d992_w810_h810_s110.jpeg",
@@ -829,6 +821,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/23263486e03f11ee9a8e5254001e7c00/avatar/8f83dea27d848ef80e574693538b1857_w1080_h1080_s65.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/23263486e03f11ee9a8e5254001e7c00",
+    "org": false
+  },
+  {
+    "name": "ModyQyW",
+    "login": "759c75d4d67011eca28252540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/759c75d4d67011eca28252540025c377/avatar/8ed2b1d70a586bea392cab61c848510b_w512_h512_s32.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/759c75d4d67011eca28252540025c377",
     "org": false
   },
   {
