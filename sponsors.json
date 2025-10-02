@@ -440,14 +440,6 @@
     "org": false
   },
   {
-    "name": "Hyden Liu",
-    "login": "HydenLiu",
-    "avatar": "https://avatars.githubusercontent.com/u/52030677?u=6c86af14d0428b2a925cc71eb87457bee3ba3683&v=4",
-    "amount": 4,
-    "link": "https://github.com/HydenLiu",
-    "org": false
-  },
-  {
     "name": "华丽",
     "login": "6e9a280aa13111ebbc5152540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
@@ -1245,6 +1237,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/28185258?u=4bd487529a558a46d8312cb90271bbec837bdfa5&v=4",
     "amount": -1,
     "link": "https://github.com/misitebao",
+    "org": false
+  },
+  {
+    "name": "Hyden Liu",
+    "login": "HydenLiu",
+    "avatar": "https://avatars.githubusercontent.com/u/52030677?u=6c86af14d0428b2a925cc71eb87457bee3ba3683&v=4",
+    "amount": -1,
+    "link": "https://github.com/HydenLiu",
     "org": false
   },
   {
