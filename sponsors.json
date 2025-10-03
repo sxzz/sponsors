@@ -72,6 +72,14 @@
     "org": false
   },
   {
+    "name": "Ulrich Stark",
+    "login": "ulrichstark",
+    "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
+    "amount": 20,
+    "link": "https://github.com/ulrichstark",
+    "org": false
+  },
+  {
     "name": "Fisschl",
     "login": "fb1e915a405011ea8f5c52540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/fb1e915a405011ea8f5c52540025c377/avatar/540fe21ac7e95eb0424dc74100402f17_w700_h700_s514.jpeg",
@@ -312,6 +320,14 @@
     "org": false
   },
   {
+    "name": "dalaoshu",
+    "login": "shulaoda",
+    "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
+    "amount": 4,
+    "link": "https://github.com/shulaoda",
+    "org": false
+  },
+  {
     "name": "Eric Zhang",
     "login": "ekzhang",
     "avatar": "https://avatars.githubusercontent.com/u/7550632?u=14bb98217af15123593097a2406e379258c89484&v=4",
@@ -477,14 +493,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/2801156?u=73d135070dd572a64d4a3ad271d682b975b0f061&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
-    "org": false
-  },
-  {
-    "name": "dalaoshu",
-    "login": "shulaoda",
-    "avatar": "https://avatars.githubusercontent.com/u/165626830?u=5d68a263bf65224140e54ed2b971731d90b94a12&v=4",
-    "amount": -1,
-    "link": "https://github.com/shulaoda",
     "org": false
   },
   {
