@@ -240,14 +240,6 @@
     "org": false
   },
   {
-    "name": "苏杰豪",
-    "login": "Megasu",
-    "avatar": "https://avatars.githubusercontent.com/u/7400870?u=67043ea69962354841e6c217d08ff27de6b828c3&v=4",
-    "amount": 8,
-    "link": "https://github.com/Megasu",
-    "org": false
-  },
-  {
     "name": "LongYinan",
     "login": "Brooooooklyn",
     "avatar": "https://avatars.githubusercontent.com/u/3468483?u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4",
@@ -1029,6 +1021,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
     "amount": -1,
     "link": "https://github.com/zhengbangbo",
+    "org": false
+  },
+  {
+    "name": "苏杰豪",
+    "login": "Megasu",
+    "avatar": "https://avatars.githubusercontent.com/u/7400870?u=67043ea69962354841e6c217d08ff27de6b828c3&v=4",
+    "amount": -1,
+    "link": "https://github.com/Megasu",
     "org": false
   },
   {
