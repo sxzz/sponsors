@@ -88,14 +88,6 @@
     "org": false
   },
   {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 18,
-    "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -502,6 +494,14 @@
     "amount": -1,
     "link": "https://github.com/Alfred-Skyblue",
     "org": false
+  },
+  {
+    "name": "thanks.dev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
   },
   {
     "name": "Hiroshi Ogawa",
