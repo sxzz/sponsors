@@ -32,14 +32,6 @@
     "org": true
   },
   {
-    "name": "patak",
-    "login": "patak-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
-    "amount": 64,
-    "link": "https://github.com/patak-dev",
-    "org": false
-  },
-  {
     "name": "Neko",
     "login": "nekomeowww",
     "avatar": "https://avatars.githubusercontent.com/u/11081491?u=dfc40b82d79da7d9a985f267e3c5ff17d8fedf3b&v=4",
@@ -1229,6 +1221,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/499550?u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4",
     "amount": -1,
     "link": "https://github.com/yyx990803",
+    "org": false
+  },
+  {
+    "name": "patak",
+    "login": "patak-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/583075?u=c2ea71ad847aecf66885e68d81a876fff1486bdd&v=4",
+    "amount": -1,
+    "link": "https://github.com/patak-dev",
     "org": false
   },
   {
