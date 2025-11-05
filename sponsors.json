@@ -72,14 +72,6 @@
     "org": false
   },
   {
-    "name": "Fisschl",
-    "login": "fb1e915a405011ea8f5c52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/fb1e915a405011ea8f5c52540025c377/avatar/540fe21ac7e95eb0424dc74100402f17_w700_h700_s514.jpeg",
-    "amount": 18.823529411764707,
-    "link": "https://afdian.com/u/fb1e915a405011ea8f5c52540025c377",
-    "org": false
-  },
-  {
     "name": "ubugeeei",
     "login": "ubugeeei",
     "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
@@ -450,7 +442,7 @@
   {
     "name": "Jess",
     "login": "JessicaSachs",
-    "avatar": "https://avatars.githubusercontent.com/u/2801156?u=73d135070dd572a64d4a3ad271d682b975b0f061&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/2801156?u=bdcf346cd3d774dda0b898562a8881d6cfc32abc&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
     "org": false
@@ -573,6 +565,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/111416234?u=b49e5a607503897ff20c5a19dd8cd26f237cda47&v=4",
     "amount": -1,
     "link": "https://github.com/antonmak1",
+    "org": false
+  },
+  {
+    "name": "Fisschl",
+    "login": "fb1e915a405011ea8f5c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/fb1e915a405011ea8f5c52540025c377/avatar/540fe21ac7e95eb0424dc74100402f17_w700_h700_s514.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/fb1e915a405011ea8f5c52540025c377",
     "org": false
   },
   {
