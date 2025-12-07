@@ -128,6 +128,14 @@
     "org": false
   },
   {
+    "name": "jinghaihan",
+    "login": "jinghaihan",
+    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
+    "amount": 8,
+    "link": "https://github.com/jinghaihan",
+    "org": false
+  },
+  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
@@ -197,14 +205,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/15853907?u=9a878c0efeedf49b406815aab63ebc611d3ede52&v=4",
     "amount": 8,
     "link": "https://github.com/ZWkang",
-    "org": false
-  },
-  {
-    "name": "zhiyuanzmj",
-    "login": "zhiyuanzmj",
-    "avatar": "https://avatars.githubusercontent.com/u/32807958?u=e0d66a72ca82a00c3780a17fb637a3f8416124e6&v=4",
-    "amount": 8,
-    "link": "https://github.com/zhiyuanzmj",
     "org": false
   },
   {
@@ -917,6 +917,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/25259084?u=b430a4db552aefc368ff79254c1ae0132c8edaa8&v=4",
     "amount": -1,
     "link": "https://github.com/Lakr233",
+    "org": false
+  },
+  {
+    "name": "zhiyuanzmj",
+    "login": "zhiyuanzmj",
+    "avatar": "https://avatars.githubusercontent.com/u/32807958?u=e0d66a72ca82a00c3780a17fb637a3f8416124e6&v=4",
+    "amount": -1,
+    "link": "https://github.com/zhiyuanzmj",
     "org": false
   },
   {
