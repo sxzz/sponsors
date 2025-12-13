@@ -40,6 +40,14 @@
     "org": false
   },
   {
+    "name": "Jan T. Sott",
+    "login": "idleberg",
+    "avatar": "https://avatars.githubusercontent.com/u/1504938?u=5a50d188bef8f0e2e8a6dc53748a5b393928ba4a&v=4",
+    "amount": 32,
+    "link": "https://github.com/idleberg",
+    "org": false
+  },
+  {
     "name": "Christian Byrne",
     "login": "christian-byrne",
     "avatar": "https://avatars.githubusercontent.com/u/72887196?u=fb526bdea5fcf7c5c68be1d3c96c4cad87bc8c0b&v=4",
@@ -1008,7 +1016,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "Bangbo",
     "login": "zhengbangbo",
     "avatar": "https://avatars.githubusercontent.com/u/18254135?u=f74c062906d6e261c229a0402b16765a2f1ab1cd&v=4",
     "amount": -1,
