@@ -136,14 +136,6 @@
     "org": false
   },
   {
-    "name": "jinghaihan",
-    "login": "jinghaihan",
-    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
-    "amount": 8,
-    "link": "https://github.com/jinghaihan",
-    "org": false
-  },
-  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
@@ -285,6 +277,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1651790?u=5a5ea37c495f7787f35172f0f86569daf5a5a65e&v=4",
     "amount": 5,
     "link": "https://github.com/wey-gu",
+    "org": false
+  },
+  {
+    "name": "jinghaihan",
+    "login": "jinghaihan",
+    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
+    "amount": 4,
+    "link": "https://github.com/jinghaihan",
     "org": false
   },
   {
