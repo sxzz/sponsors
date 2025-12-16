@@ -16,6 +16,14 @@
     "org": true
   },
   {
+    "name": "Kraken Tech",
+    "login": "kraken-tech",
+    "avatar": "https://avatars.githubusercontent.com/u/105941848?v=4",
+    "amount": 256,
+    "link": "https://github.com/kraken-tech",
+    "org": true
+  },
+  {
     "name": "François Best",
     "login": "franky47",
     "avatar": "https://avatars.githubusercontent.com/u/1174092?u=29efaf1c08f0f3cad76cac81be3a3d58a6cd0411&v=4",
