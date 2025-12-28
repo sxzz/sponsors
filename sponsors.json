@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "François Best",
-    "login": "franky47",
-    "avatar": "https://avatars.githubusercontent.com/u/1174092?u=29efaf1c08f0f3cad76cac81be3a3d58a6cd0411&v=4",
-    "amount": 174,
-    "link": "https://github.com/franky47",
-    "org": false
-  },
-  {
     "name": "RTVision",
     "login": "RTVision",
     "avatar": "https://avatars.githubusercontent.com/u/8292810?v=4",
@@ -461,6 +453,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2801156?u=bdcf346cd3d774dda0b898562a8881d6cfc32abc&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
+    "org": false
+  },
+  {
+    "name": "François Best",
+    "login": "franky47",
+    "avatar": "https://avatars.githubusercontent.com/u/1174092?u=29efaf1c08f0f3cad76cac81be3a3d58a6cd0411&v=4",
+    "amount": -1,
+    "link": "https://github.com/franky47",
     "org": false
   },
   {
