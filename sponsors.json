@@ -88,14 +88,6 @@
     "org": false
   },
   {
-    "name": "ubugeeei",
-    "login": "ubugeeei",
-    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
-    "amount": 16,
-    "link": "https://github.com/ubugeeei",
-    "org": false
-  },
-  {
     "name": "Haoqun Jiang",
     "login": "haoqunjiang",
     "avatar": "https://avatars.githubusercontent.com/u/3277634?u=a530f156e5bb174497f01b8b7d7af547736dd860&v=4",
@@ -344,14 +336,6 @@
     "org": false
   },
   {
-    "name": "Tsuyoshi Yamaguchi",
-    "login": "Tsuyoshi84",
-    "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
-    "amount": 4,
-    "link": "https://github.com/Tsuyoshi84",
-    "org": false
-  },
-  {
     "name": "Thomas",
     "login": "tchin25",
     "avatar": "https://avatars.githubusercontent.com/u/32803654?u=ae502f9ac0643e89acc6c1cdf01be45275c3f758&v=4",
@@ -373,6 +357,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
     "amount": 4,
     "link": "https://github.com/Nisgrak",
+    "org": false
+  },
+  {
+    "name": "ubugeeei",
+    "login": "ubugeeei",
+    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4",
+    "amount": 4,
+    "link": "https://github.com/ubugeeei",
     "org": false
   },
   {
@@ -677,6 +669,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/",
     "amount": -1,
     "link": "https://afdian.com/u/5a2e7a7c674111ef919752540025c377",
+    "org": false
+  },
+  {
+    "name": "Tsuyoshi Yamaguchi",
+    "login": "Tsuyoshi84",
+    "avatar": "https://avatars.githubusercontent.com/u/11254699?u=48cf8fe456fa7f1e0f861d53cec15e0f901b5439&v=4",
+    "amount": -1,
+    "link": "https://github.com/Tsuyoshi84",
     "org": false
   },
   {
