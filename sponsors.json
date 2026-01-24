@@ -400,6 +400,14 @@
     "org": false
   },
   {
+    "name": "younggglcy",
+    "login": "younggglcy",
+    "avatar": "https://avatars.githubusercontent.com/u/73387709?u=f2faf7d9a87d16bbb387f82924f1da9e1bbd9fac&v=4",
+    "amount": 4,
+    "link": "https://github.com/younggglcy",
+    "org": false
+  },
+  {
     "name": "华丽",
     "login": "6e9a280aa13111ebbc5152540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/6e9a280aa13111ebbc5152540025c377/avatar/7ea1f85c1335022384dae07a53e19934_w500_h500_s28.jpeg",
@@ -1157,14 +1165,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/85140972?u=cea2fd5cb758c28e2504d775ad94e6d7b6b919bb&v=4",
     "amount": -1,
     "link": "https://github.com/AkaraChen",
-    "org": false
-  },
-  {
-    "name": "younggglcy",
-    "login": "younggglcy",
-    "avatar": "https://avatars.githubusercontent.com/u/73387709?u=f2faf7d9a87d16bbb387f82924f1da9e1bbd9fac&v=4",
-    "amount": -1,
-    "link": "https://github.com/younggglcy",
     "org": false
   },
   {
