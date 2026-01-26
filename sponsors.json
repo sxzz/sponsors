@@ -416,14 +416,6 @@
     "org": false
   },
   {
-    "name": "warmthsea",
-    "login": "d6b7a9c80e9c11eeacce5254001e7c00",
-    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/60c2af441edaeb8ba3ecb7d7d3e4d992_w810_h810_s110.jpeg",
-    "amount": 2.3529411764705883,
-    "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
-    "org": false
-  },
-  {
     "name": null,
     "login": "fratzinger",
     "avatar": "https://avatars.githubusercontent.com/u/22286818?u=a91967911b0aa7c8424c7fdabbd6acd1e37d4e0e&v=4",
@@ -981,6 +973,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/default-avatar@2x.png",
     "amount": -1,
     "link": "https://afdian.com/u/d0d53558ea4b11e9959e52540025c377",
+    "org": false
+  },
+  {
+    "name": "warmthsea",
+    "login": "d6b7a9c80e9c11eeacce5254001e7c00",
+    "avatar": "https://pic1.afdiancdn.com/user/d6b7a9c80e9c11eeacce5254001e7c00/avatar/60c2af441edaeb8ba3ecb7d7d3e4d992_w810_h810_s110.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/d6b7a9c80e9c11eeacce5254001e7c00",
     "org": false
   },
   {
