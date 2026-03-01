@@ -168,14 +168,6 @@
     "org": false
   },
   {
-    "name": "Jex",
-    "login": "JexLau",
-    "avatar": "https://avatars.githubusercontent.com/u/35288649?u=1cedac024ff57e5906ee83eb60d1c7e608b13d2a&v=4",
-    "amount": 8,
-    "link": "https://github.com/JexLau",
-    "org": false
-  },
-  {
     "name": "Linbudu",
     "login": "linbudu599",
     "avatar": "https://avatars.githubusercontent.com/u/48507806?u=0a72856baa6c021a32d6ef0639412a838108ed91&v=4",
@@ -757,6 +749,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/88535417?u=88ea13bd44fbb7b9c3cd60d62f42b32a0684e6e2&v=4",
     "amount": -1,
     "link": "https://github.com/yaolifeng0629",
+    "org": false
+  },
+  {
+    "name": "Jex",
+    "login": "JexLau",
+    "avatar": "https://avatars.githubusercontent.com/u/35288649?u=1cedac024ff57e5906ee83eb60d1c7e608b13d2a&v=4",
+    "amount": -1,
+    "link": "https://github.com/JexLau",
     "org": false
   },
   {
