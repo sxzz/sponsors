@@ -368,14 +368,6 @@
     "org": false
   },
   {
-    "name": "WangJie",
-    "login": "cnwangjie",
-    "avatar": "https://avatars.githubusercontent.com/u/7459652?u=a7c2963a25b721c077e503216e54a5e208feccc7&v=4",
-    "amount": 4,
-    "link": "https://github.com/cnwangjie",
-    "org": false
-  },
-  {
     "name": null,
     "login": "songkeys",
     "avatar": "https://avatars.githubusercontent.com/u/22665058?u=6502044d74cd15a821920363ae274c474d88948d&v=4",
@@ -1072,6 +1064,14 @@
     "org": false
   },
   {
+    "name": "WangJie",
+    "login": "cnwangjie",
+    "avatar": "https://avatars.githubusercontent.com/u/7459652?u=a7c2963a25b721c077e503216e54a5e208feccc7&v=4",
+    "amount": -1,
+    "link": "https://github.com/cnwangjie",
+    "org": false
+  },
+  {
     "name": "Innei",
     "login": "Innei",
     "avatar": "https://avatars.githubusercontent.com/u/41265413?u=ce3c0ff6295ccb0f1f2d90c43097ed0f525864a7&v=4",
@@ -1216,7 +1216,7 @@
     "org": false
   },
   {
-    "name": "Sor4chi",
+    "name": "Sorachi Kawamura",
     "login": "sor4chi",
     "avatar": "https://avatars.githubusercontent.com/u/80559385?u=cf32003d08327e4bc9bf0c05a269f73043125a8c&v=4",
     "amount": -1,
