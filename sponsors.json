@@ -120,14 +120,6 @@
     "org": false
   },
   {
-    "name": "91122",
-    "login": "91122668985111ecbf7a52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
-    "amount": 9.411764705882353,
-    "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
-    "org": false
-  },
-  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
@@ -485,6 +477,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/55641773?u=21dfe59e78a499fdc48efa7700863a99a7ec1227&v=4",
     "amount": -1,
     "link": "https://github.com/Alfred-Skyblue",
+    "org": false
+  },
+  {
+    "name": "91122",
+    "login": "91122668985111ecbf7a52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
+    "amount": -1,
+    "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
     "org": false
   },
   {
