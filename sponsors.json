@@ -72,27 +72,11 @@
     "org": false
   },
   {
-    "name": "RainbowBird",
-    "login": "luoling8192",
-    "avatar": "https://avatars.githubusercontent.com/u/44741987?u=a332cdc8c82452d428d048c8f1e651a84795fc21&v=4",
-    "amount": 16,
-    "link": "https://github.com/luoling8192",
-    "org": false
-  },
-  {
     "name": "Haoqun Jiang",
     "login": "haoqunjiang",
     "avatar": "https://avatars.githubusercontent.com/u/3277634?u=a530f156e5bb174497f01b8b7d7af547736dd860&v=4",
     "amount": 16,
     "link": "https://github.com/haoqunjiang",
-    "org": false
-  },
-  {
-    "name": "Jiawen Geng",
-    "login": "gengjiawen",
-    "avatar": "https://avatars.githubusercontent.com/u/3759816?u=08d4f9b09b0261795196497af862f85051a533e7&v=4",
-    "amount": 10,
-    "link": "https://github.com/gengjiawen",
     "org": false
   },
   {
@@ -429,6 +413,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2801156?u=bdcf346cd3d774dda0b898562a8881d6cfc32abc&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
+    "org": false
+  },
+  {
+    "name": "Jiawen Geng",
+    "login": "gengjiawen",
+    "avatar": "https://avatars.githubusercontent.com/u/3759816?u=08d4f9b09b0261795196497af862f85051a533e7&v=4",
+    "amount": -1,
+    "link": "https://github.com/gengjiawen",
     "org": false
   },
   {
