@@ -40,6 +40,14 @@
     "org": false
   },
   {
+    "name": "thanks.dev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "amount": 38,
+    "link": "https://github.com/thnxdev",
+    "org": true
+  },
+  {
     "name": "Christian Byrne",
     "login": "christian-byrne",
     "avatar": "https://avatars.githubusercontent.com/u/72887196?u=fb526bdea5fcf7c5c68be1d3c96c4cad87bc8c0b&v=4",
@@ -101,6 +109,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/44224328?u=84efd5c766f29d97ec4654ed2281d0fa492f453c&v=4",
     "amount": 10,
     "link": "https://github.com/Magren0321",
+    "org": false
+  },
+  {
+    "name": "jinghaihan",
+    "login": "jinghaihan",
+    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
+    "amount": 8,
+    "link": "https://github.com/jinghaihan",
     "org": false
   },
   {
@@ -245,14 +261,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/13903378?u=263cc0dd5e94e166842b9e3cd532d8fbe44777c0&v=4",
     "amount": 4,
     "link": "https://github.com/jahredhope",
-    "org": false
-  },
-  {
-    "name": "jinghaihan",
-    "login": "jinghaihan",
-    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
-    "amount": 4,
-    "link": "https://github.com/jinghaihan",
     "org": false
   },
   {
@@ -478,14 +486,6 @@
     "amount": -1,
     "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
     "org": false
-  },
-  {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": -1,
-    "link": "https://github.com/thnxdev",
-    "org": true
   },
   {
     "name": "Hiroshi Ogawa",
