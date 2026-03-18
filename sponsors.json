@@ -80,6 +80,14 @@
     "org": false
   },
   {
+    "name": "Yunfei He",
+    "login": "hyf0",
+    "avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
+    "amount": 16,
+    "link": "https://github.com/hyf0",
+    "org": false
+  },
+  {
     "name": "Haoqun Jiang",
     "login": "haoqunjiang",
     "avatar": "https://avatars.githubusercontent.com/u/3277634?u=a530f156e5bb174497f01b8b7d7af547736dd860&v=4",
@@ -253,6 +261,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1651790?u=5a5ea37c495f7787f35172f0f86569daf5a5a65e&v=4",
     "amount": 5,
     "link": "https://github.com/wey-gu",
+    "org": false
+  },
+  {
+    "name": "SerKo",
+    "login": "serkodev",
+    "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
+    "amount": 4,
+    "link": "https://github.com/serkodev",
     "org": false
   },
   {
@@ -1000,7 +1016,7 @@
     "org": false
   },
   {
-    "name": "Simone M.",
+    "name": "Simone Mastromattei",
     "login": "smastrom",
     "avatar": "https://avatars.githubusercontent.com/u/60471784?u=c363acfe6564a81a57fb443f6958012c5ac7dc1e&v=4",
     "amount": -1,
