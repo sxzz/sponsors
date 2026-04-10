@@ -368,14 +368,6 @@
     "org": false
   },
   {
-    "name": "ubugeeei",
-    "login": "ubugeeei",
-    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=44f9771e6bc51934d392e86a4644c32c615cdec8&v=4",
-    "amount": 4,
-    "link": "https://github.com/ubugeeei",
-    "org": false
-  },
-  {
     "name": null,
     "login": "songkeys",
     "avatar": "https://avatars.githubusercontent.com/u/22665058?u=6502044d74cd15a821920363ae274c474d88948d&v=4",
@@ -936,6 +928,14 @@
     "org": false
   },
   {
+    "name": "ubugeeei",
+    "login": "ubugeeei",
+    "avatar": "https://avatars.githubusercontent.com/u/71201308?u=44f9771e6bc51934d392e86a4644c32c615cdec8&v=4",
+    "amount": -1,
+    "link": "https://github.com/ubugeeei",
+    "org": false
+  },
+  {
     "name": "so1ve",
     "login": "c8f2bf34f3fb11eb880252540025c377",
     "avatar": "https://pic1.afdiancdn.com/user/c8f2bf34f3fb11eb880252540025c377/avatar/7c6ffbdc73172ab984eda0c60e484c92_w400_h400_s32.jpeg",
@@ -1376,7 +1376,7 @@
     "org": false
   },
   {
-    "name": null,
+    "name": "",
     "login": "c0dedance",
     "avatar": "https://avatars.githubusercontent.com/u/38075730?v=4",
     "amount": -1,
