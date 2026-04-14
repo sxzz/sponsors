@@ -128,14 +128,6 @@
     "org": false
   },
   {
-    "name": "jinghaihan",
-    "login": "jinghaihan",
-    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
-    "amount": 8,
-    "link": "https://github.com/jinghaihan",
-    "org": false
-  },
-  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
@@ -453,6 +445,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1504938?u=6b64bfde8b48f6532aa3d40820afd157ce61831e&v=4",
     "amount": -1,
     "link": "https://github.com/idleberg",
+    "org": false
+  },
+  {
+    "name": "jinghaihan",
+    "login": "jinghaihan",
+    "avatar": "https://avatars.githubusercontent.com/u/39728926?u=1466954f7297f6360cdf9d9d377bd07b654409e7&v=4",
+    "amount": -1,
+    "link": "https://github.com/jinghaihan",
     "org": false
   },
   {
@@ -1056,7 +1056,7 @@
     "org": false
   },
   {
-    "name": "Eva Winterschön",
+    "name": "Eva (Annaliese) Winterschön",
     "login": "em-winterschon",
     "avatar": "https://avatars.githubusercontent.com/u/7950191?u=36c776ac92da6f338bcfca9b64a62f5f7d84ae6a&v=4",
     "amount": -1,
