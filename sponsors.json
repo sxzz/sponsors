@@ -192,14 +192,6 @@
     "org": false
   },
   {
-    "name": "SnowGuest",
-    "login": "a305d958bfca11e9b11c52540025c377",
-    "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
-    "amount": 7.352941176470589,
-    "link": "https://afdian.com/u/a305d958bfca11e9b11c52540025c377",
-    "org": false
-  },
-  {
     "name": "Y10A",
     "login": "YuheiFUJITA",
     "avatar": "https://avatars.githubusercontent.com/u/13161267?u=f45735a8978321dd7f4bffe0feb5bdde6ff3dd84&v=4",
@@ -493,6 +485,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-orange.png",
     "amount": -1,
     "link": "https://afdian.com/u/65c291220f6411f0960e5254001e7c00",
+    "org": false
+  },
+  {
+    "name": "SnowGuest",
+    "login": "a305d958bfca11e9b11c52540025c377",
+    "avatar": "https://pic1.afdiancdn.com/user/a305d958bfca11e9b11c52540025c377/avatar/d2e9407ac1ba5ca36b48b9cd75490321_w640_h640_s30.jpeg",
+    "amount": -1,
+    "link": "https://afdian.com/u/a305d958bfca11e9b11c52540025c377",
     "org": false
   },
   {
@@ -1138,7 +1138,7 @@
   {
     "name": "Alex Yang",
     "login": "himself65",
-    "avatar": "https://avatars.githubusercontent.com/u/14026360?u=c75e1c79a305a0c9f9726212550281f60157f759&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/14026360?u=60240c3e55914d562e5b912ac573f6d744f0561b&v=4",
     "amount": -1,
     "link": "https://github.com/himself65",
     "org": false
