@@ -1064,7 +1064,7 @@
     "org": false
   },
   {
-    "name": "Eva (Annaliese) Winterschön",
+    "name": "Eva",
     "login": "em-winterschon",
     "avatar": "https://avatars.githubusercontent.com/u/7950191?u=36c776ac92da6f338bcfca9b64a62f5f7d84ae6a&v=4",
     "amount": -1,
@@ -1197,14 +1197,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/41773861?u=7d437cf46b95c2ceb37cc35acb10103c4022f94b&v=4",
     "amount": -1,
     "link": "https://github.com/tjx666",
-    "org": false
-  },
-  {
-    "name": "Hazel",
-    "login": "Hazel-Lin",
-    "avatar": "https://avatars.githubusercontent.com/u/52577448?u=0cc19d3c251b71a40adf95258ec0187d2d1cfcba&v=4",
-    "amount": -1,
-    "link": "https://github.com/Hazel-Lin",
     "org": false
   },
   {
