@@ -96,14 +96,6 @@
     "org": false
   },
   {
-    "name": "zernonia",
-    "login": "zernonia",
-    "avatar": "https://avatars.githubusercontent.com/u/59365435?u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4",
-    "amount": 10,
-    "link": "https://github.com/zernonia",
-    "org": false
-  },
-  {
     "name": "xx",
     "login": "xxholly32",
     "avatar": "https://avatars.githubusercontent.com/u/6063358?u=178e0d048cd9f7441a3c601f7dc18f8b4e610f1e&v=4",
@@ -853,6 +845,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/759c75d4d67011eca28252540025c377/avatar/8ed2b1d70a586bea392cab61c848510b_w512_h512_s32.png",
     "amount": -1,
     "link": "https://afdian.com/u/759c75d4d67011eca28252540025c377",
+    "org": false
+  },
+  {
+    "name": "zernonia",
+    "login": "zernonia",
+    "avatar": "https://avatars.githubusercontent.com/u/59365435?u=7554ee9b1dbcd2b06d8369f0cb2b8230f54db720&v=4",
+    "amount": -1,
+    "link": "https://github.com/zernonia",
     "org": false
   },
   {
