@@ -64,14 +64,6 @@
     "org": false
   },
   {
-    "name": "Lucas Nørgård",
-    "login": "luxass",
-    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
-    "amount": 16,
-    "link": "https://github.com/luxass",
-    "org": false
-  },
-  {
     "name": "Yunfei He",
     "login": "hyf0",
     "avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
@@ -112,19 +104,19 @@
     "org": false
   },
   {
+    "name": "Lucas Nørgård",
+    "login": "luxass",
+    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
+    "amount": 8,
+    "link": "https://github.com/luxass",
+    "org": false
+  },
+  {
     "name": "IlyaL",
     "login": "ilyaliao",
     "avatar": "https://avatars.githubusercontent.com/u/93901409?u=2bbbdc5294449782b6acd9d57455863d56c7a174&v=4",
     "amount": 8,
     "link": "https://github.com/ilyaliao",
-    "org": false
-  },
-  {
-    "name": "Gustav Hansen",
-    "login": "gu-stav",
-    "avatar": "https://avatars.githubusercontent.com/u/2244375?u=5240e0f277601e08bdcffd579e395a57f8b23e3f&v=4",
-    "amount": 8,
-    "link": "https://github.com/gu-stav",
     "org": false
   },
   {
@@ -517,6 +509,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/38493346?u=73b116ae6704175ce20f30e993b35305ce1c631c&v=4",
     "amount": -1,
     "link": "https://github.com/hyoban",
+    "org": false
+  },
+  {
+    "name": "Gustav Hansen",
+    "login": "gu-stav",
+    "avatar": "https://avatars.githubusercontent.com/u/2244375?u=5240e0f277601e08bdcffd579e395a57f8b23e3f&v=4",
+    "amount": -1,
+    "link": "https://github.com/gu-stav",
     "org": false
   },
   {
