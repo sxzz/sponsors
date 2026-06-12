@@ -3,9 +3,9 @@
   "type": "module",
   "packageManager": "pnpm@11.5.2",
   "dependencies": {
-    "sponsorkit": "^17.1.0"
+    "sponsorkit": "^17.1.1"
   },
   "devDependencies": {
-    "@types/node": "^25.7.0"
+    "@types/node": "^25.9.3"
   }
 }
