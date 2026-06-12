@@ -73,7 +73,7 @@ export default defineConfig({
   outputDir: '.',
   formats: ['svg', 'png'],
   afdian: {
-    exchangeRate: 6.8,
+    exchangeRate: 7.2,
   },
 
   renders: [
