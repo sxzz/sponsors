@@ -210,7 +210,7 @@
   {
     "name": "牛油果在东京学习",
     "login": "avotokyo",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=854c8a60dc90ed8d736d2f3e9c06f190092692aa&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=4b4f1b42aa219edb4a1a6854004d5f7b530b3be2&v=4",
     "amount": 4,
     "link": "https://github.com/avotokyo",
     "org": false
@@ -293,14 +293,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/32803654?u=ae502f9ac0643e89acc6c1cdf01be45275c3f758&v=4",
     "amount": 4,
     "link": "https://github.com/tchin25",
-    "org": false
-  },
-  {
-    "name": "Milos Dimitrijevic",
-    "login": "milos018",
-    "avatar": "https://avatars.githubusercontent.com/u/46306967?u=1d5e02f5ffcd99e21b5d869fe740b7c1d2ce0318&v=4",
-    "amount": 4,
-    "link": "https://github.com/milos018",
     "org": false
   },
   {
@@ -837,6 +829,14 @@
     "avatar": "https://pic1.afdiancdn.com/user/23263486e03f11ee9a8e5254001e7c00/avatar/8f83dea27d848ef80e574693538b1857_w1080_h1080_s65.jpeg",
     "amount": -1,
     "link": "https://afdian.com/u/23263486e03f11ee9a8e5254001e7c00",
+    "org": false
+  },
+  {
+    "name": "Milos Dimitrijevic",
+    "login": "milos018",
+    "avatar": "https://avatars.githubusercontent.com/u/46306967?u=1d5e02f5ffcd99e21b5d869fe740b7c1d2ce0318&v=4",
+    "amount": -1,
+    "link": "https://github.com/milos018",
     "org": false
   },
   {
