@@ -304,14 +304,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "songkeys",
-    "avatar": "https://avatars.githubusercontent.com/u/22665058?u=6502044d74cd15a821920363ae274c474d88948d&v=4",
-    "amount": 4,
-    "link": "https://github.com/songkeys",
-    "org": false
-  },
-  {
     "name": "Robin Wong",
     "login": "robinWongM",
     "avatar": "https://avatars.githubusercontent.com/u/2606137?v=4",
@@ -1149,6 +1141,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/8266075?u=9de49c9b3eaf4db02e685458cb64b64c172034bf&v=4",
     "amount": -1,
     "link": "https://github.com/DIYgod",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "songkeys",
+    "avatar": "https://avatars.githubusercontent.com/u/22665058?u=6502044d74cd15a821920363ae274c474d88948d&v=4",
+    "amount": -1,
+    "link": "https://github.com/songkeys",
     "org": false
   },
   {
