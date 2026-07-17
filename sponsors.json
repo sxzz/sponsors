@@ -32,14 +32,6 @@
     "org": true
   },
   {
-    "name": "Neko",
-    "login": "nekomeowww",
-    "avatar": "https://avatars.githubusercontent.com/u/11081491?u=dfc40b82d79da7d9a985f267e3c5ff17d8fedf3b&v=4",
-    "amount": 50,
-    "link": "https://github.com/nekomeowww",
-    "org": false
-  },
-  {
     "name": "Christian Byrne",
     "login": "christian-byrne",
     "avatar": "https://avatars.githubusercontent.com/u/72887196?u=fb526bdea5fcf7c5c68be1d3c96c4cad87bc8c0b&v=4",
@@ -53,6 +45,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/28706372?u=c4a5aa5232c09c3248533366d5c93a138d7e8987&v=4",
     "amount": 32,
     "link": "https://github.com/danielroe",
+    "org": false
+  },
+  {
+    "name": "Neko",
+    "login": "nekomeowww",
+    "avatar": "https://avatars.githubusercontent.com/u/11081491?u=dfc40b82d79da7d9a985f267e3c5ff17d8fedf3b&v=4",
+    "amount": 30,
+    "link": "https://github.com/nekomeowww",
     "org": false
   },
   {
@@ -1186,7 +1186,7 @@
   {
     "name": "双霖",
     "login": "linesoft2",
-    "avatar": "https://avatars.githubusercontent.com/u/25446947?u=d6eb46cc061050f6a5f1e0b45e7b386a13d8a3a3&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/25446947?u=733a71c84bebca210454ed72e269549b2dd6ab58&v=4",
     "amount": -1,
     "link": "https://github.com/linesoft2",
     "org": false
