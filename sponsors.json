@@ -66,7 +66,7 @@
   {
     "name": "Ulrich Stark",
     "login": "ulrichstark",
-    "avatar": "https://avatars.githubusercontent.com/u/8657779?u=5cfc779c824faea1372da82157a469a581318f60&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/8657779?u=179c54b0132ef6b519b8b59107da95c0e86fe635&v=4",
     "amount": 20,
     "link": "https://github.com/ulrichstark",
     "org": false
@@ -213,6 +213,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1651790?u=5a5ea37c495f7787f35172f0f86569daf5a5a65e&v=4",
     "amount": 5,
     "link": "https://github.com/wey-gu",
+    "org": false
+  },
+  {
+    "name": "翠",
+    "login": "sapphi-red",
+    "avatar": "https://avatars.githubusercontent.com/u/49056869?u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4",
+    "amount": 4,
+    "link": "https://github.com/sapphi-red",
     "org": false
   },
   {
