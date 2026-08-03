@@ -3,7 +3,7 @@
   "type": "module",
   "packageManager": "pnpm@11.17.0",
   "dependencies": {
-    "sponsorkit": "^17.1.1"
+    "sponsorkit": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^26.1.1"
