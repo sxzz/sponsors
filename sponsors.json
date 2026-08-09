@@ -224,14 +224,6 @@
     "org": false
   },
   {
-    "name": "牛油果在东京学习",
-    "login": "avotokyo",
-    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=0d68863839c62d7c25ab48f18714bd7d56366a86&v=4",
-    "amount": 4,
-    "link": "https://github.com/avotokyo",
-    "org": false
-  },
-  {
     "name": "SerKo",
     "login": "serkodev",
     "avatar": "https://avatars.githubusercontent.com/u/44749100?u=e0c8f8e5305cffe6d9a047af11d8ac0fe20d3ab0&v=4",
@@ -373,6 +365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2801156?u=bdcf346cd3d774dda0b898562a8881d6cfc32abc&v=4",
     "amount": 1,
     "link": "https://github.com/JessicaSachs",
+    "org": false
+  },
+  {
+    "name": "牛油果在东京学习",
+    "login": "avotokyo",
+    "avatar": "https://avatars.githubusercontent.com/u/206218794?u=0d68863839c62d7c25ab48f18714bd7d56366a86&v=4",
+    "amount": -1,
+    "link": "https://github.com/avotokyo",
     "org": false
   },
   {
