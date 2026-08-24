@@ -32,14 +32,6 @@
     "org": true
   },
   {
-    "name": "thanks.dev",
-    "login": "thnxdev",
-    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
-    "amount": 63,
-    "link": "https://github.com/thnxdev",
-    "org": true
-  },
-  {
     "name": "Christian Byrne",
     "login": "christian-byrne",
     "avatar": "https://avatars.githubusercontent.com/u/72887196?u=fb526bdea5fcf7c5c68be1d3c96c4cad87bc8c0b&v=4",
@@ -478,6 +470,14 @@
     "amount": -1,
     "link": "https://afdian.com/u/91122668985111ecbf7a52540025c377",
     "org": false
+  },
+  {
+    "name": "thanks.dev",
+    "login": "thnxdev",
+    "avatar": "https://avatars.githubusercontent.com/u/72539280?v=4",
+    "amount": -1,
+    "link": "https://github.com/thnxdev",
+    "org": true
   },
   {
     "name": "yeeel",
