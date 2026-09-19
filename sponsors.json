@@ -1,13 +1,5 @@
 [
   {
-    "name": "VoidZero",
-    "login": "voidzero-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
-    "amount": 2500,
-    "link": "https://github.com/voidzero-dev",
-    "org": true
-  },
-  {
     "name": "Vue.js Japan User Group",
     "login": "vuejs-jp",
     "avatar": "https://avatars.githubusercontent.com/u/11144750?v=4",
@@ -510,6 +502,14 @@
     "amount": -1,
     "link": "https://afdian.com/u/a305d958bfca11e9b11c52540025c377",
     "org": false
+  },
+  {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": -1,
+    "link": "https://github.com/voidzero-dev",
+    "org": true
   },
   {
     "name": "Hiroshi Ogawa",
