@@ -504,14 +504,6 @@
     "org": false
   },
   {
-    "name": "VoidZero",
-    "login": "voidzero-dev",
-    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
-    "amount": -1,
-    "link": "https://github.com/voidzero-dev",
-    "org": true
-  },
-  {
     "name": "Hiroshi Ogawa",
     "login": "hi-ogawa",
     "avatar": "https://avatars.githubusercontent.com/u/4232207?u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4",
