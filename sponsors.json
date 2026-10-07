@@ -1,5 +1,13 @@
 [
   {
+    "name": "VoidZero",
+    "login": "voidzero-dev",
+    "avatar": "https://avatars.githubusercontent.com/u/149750581?v=4",
+    "amount": 2500,
+    "link": "https://github.com/voidzero-dev",
+    "org": true
+  },
+  {
     "name": "Vue.js Japan User Group",
     "login": "vuejs-jp",
     "avatar": "https://avatars.githubusercontent.com/u/11144750?v=4",
@@ -101,14 +109,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/44224328?u=84efd5c766f29d97ec4654ed2281d0fa492f453c&v=4",
     "amount": 10,
     "link": "https://github.com/Magren0321",
-    "org": false
-  },
-  {
-    "name": "Lucas Nørgård",
-    "login": "luxass",
-    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
-    "amount": 8,
-    "link": "https://github.com/luxass",
     "org": false
   },
   {
@@ -296,14 +296,6 @@
     "org": false
   },
   {
-    "name": "Thomas",
-    "login": "tchin25",
-    "avatar": "https://avatars.githubusercontent.com/u/32803654?u=ae502f9ac0643e89acc6c1cdf01be45275c3f758&v=4",
-    "amount": 4,
-    "link": "https://github.com/tchin25",
-    "org": false
-  },
-  {
     "name": "Eneko Rodríguez",
     "login": "Nisgrak",
     "avatar": "https://avatars.githubusercontent.com/u/19597708?v=4",
@@ -373,6 +365,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/121314722?v=4",
     "amount": -1,
     "link": "https://github.com/gameroman",
+    "org": false
+  },
+  {
+    "name": "Lucas Nørgård",
+    "login": "luxass",
+    "avatar": "https://avatars.githubusercontent.com/u/40726067?u=b20c31b846bf2a042a62ebae3fa44f4dd6fad0c9&v=4",
+    "amount": -1,
+    "link": "https://github.com/luxass",
     "org": false
   },
   {
@@ -741,6 +741,14 @@
     "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
     "amount": -1,
     "link": "https://afdian.com/u/a7b987d00b6911ee8c9b52540025c377",
+    "org": false
+  },
+  {
+    "name": "Thomas",
+    "login": "tchin25",
+    "avatar": "https://avatars.githubusercontent.com/u/32803654?u=ae502f9ac0643e89acc6c1cdf01be45275c3f758&v=4",
+    "amount": -1,
+    "link": "https://github.com/tchin25",
     "org": false
   },
   {
