@@ -240,14 +240,6 @@
     "org": false
   },
   {
-    "name": "Oskar Lebuda",
-    "login": "OskarLebuda",
-    "avatar": "https://avatars.githubusercontent.com/u/10373127?u=b360594a3d598a011fbcdec626935d88d0a7990b&v=4",
-    "amount": 4,
-    "link": "https://github.com/OskarLebuda",
-    "org": false
-  },
-  {
     "name": "Arnaud Barré",
     "login": "ArnaudBarre",
     "avatar": "https://avatars.githubusercontent.com/u/14235743?u=1e3fb343c89f3f3ab51080295026475541c390f8&v=4",
@@ -445,6 +437,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/76158517?u=8120c0c76318e58d88e854ef341b5f6c1b78cd6f&v=4",
     "amount": -1,
     "link": "https://github.com/Triumph-light",
+    "org": false
+  },
+  {
+    "name": "Oskar Lebuda",
+    "login": "OskarLebuda",
+    "avatar": "https://avatars.githubusercontent.com/u/10373127?u=b360594a3d598a011fbcdec626935d88d0a7990b&v=4",
+    "amount": -1,
+    "link": "https://github.com/OskarLebuda",
     "org": false
   },
   {
