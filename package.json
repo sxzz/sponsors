@@ -6,6 +6,6 @@
     "sponsorkit": "^19.0.0"
   },
   "devDependencies": {
-    "@types/node": "^26.1.1"
+    "@types/node": "^26.6.6"
   }
 }
