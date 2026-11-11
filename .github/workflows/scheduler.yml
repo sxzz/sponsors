@@ -6,6 +6,14 @@ on:
     - cron: '0 0 * * *'
   push:
     branches: [main]
+  # Sent by webhook/worker.ts when a sponsorship changes
+  repository_dispatch:
+    types: [sponsors-update]
+
+# Webhooks may arrive in bursts; run one at a time and keep only the latest pending run
+concurrency:
+  group: update-sponsors
+  cancel-in-progress: false
 
 jobs:
   update-sponsors:
