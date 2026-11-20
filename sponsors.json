@@ -272,14 +272,6 @@
     "org": false
   },
   {
-    "name": "Léo Coletta",
-    "login": "leo91000",
-    "avatar": "https://avatars.githubusercontent.com/u/1354510?u=97b8fda8e1ba58fc6c2302c3ec75a81133aae28e&v=4",
-    "amount": 4,
-    "link": "https://github.com/leo91000",
-    "org": false
-  },
-  {
     "name": "Aipa",
     "login": "aipacommander",
     "avatar": "https://avatars.githubusercontent.com/u/6161879?u=4d754f614206bc9a2925faf9b59cda832079708d&v=4",
@@ -645,6 +637,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/119697239?u=a4e32c52aee61ce7cb00665eb34fb6bb2c27f51e&v=4",
     "amount": -1,
     "link": "https://github.com/HugeLetters",
+    "org": false
+  },
+  {
+    "name": "Léo Coletta",
+    "login": "leo91000",
+    "avatar": "https://avatars.githubusercontent.com/u/1354510?u=97b8fda8e1ba58fc6c2302c3ec75a81133aae28e&v=4",
+    "amount": -1,
+    "link": "https://github.com/leo91000",
     "org": false
   },
   {
